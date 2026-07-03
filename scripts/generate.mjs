@@ -41,6 +41,16 @@ function extractJson(text) {
   return JSON.parse(m[0]);
 }
 
+// 모델이 answer를 "O"/"X" 문자열로 주는 경우 불리언으로 강제 변환
+function coerce(q) {
+  if (q && typeof q.answer === 'string') {
+    const a = q.answer.trim().toUpperCase();
+    if (a === 'O' || a === 'TRUE') q.answer = true;
+    else if (a === 'X' || a === 'FALSE') q.answer = false;
+  }
+  return q;
+}
+
 function validate(q) {
   return (
     typeof q.statement === 'string' && q.statement.length >= 8 && q.statement.length <= 80 &&
@@ -66,11 +76,24 @@ async function main() {
   console.log(`${COUNT}문제 생성 요청 (모델: ${MODEL})`);
   const genText = await callClaude(
     GEN_SYSTEM,
-    `새 OX 퀴즈 ${COUNT + 10}문제를 JSON 배열로만 출력하세요. 각 원소: {"statement","answer","explanation","category","difficulty"}.
+    `새 OX 퀴즈 ${COUNT + 10}문제를 JSON 배열로만 출력하세요. 각 원소: {"statement","answer","explanation","category","difficulty"}. answer는 반드시 JSON boolean (참이면 true, 거짓이면 false).
 다음 기존 문제들과 겹치지 않게: ${JSON.stringify([...known].slice(-150))}`,
   );
-  const candidates = extractJson(genText).filter(validate);
+  const raw = extractJson(genText);
+  console.log(`파싱 ${raw.length}개, 샘플:`, JSON.stringify(raw[0]).slice(0, 200));
+  const candidates = raw.map(coerce).filter(validate);
   console.log(`1차 생성 ${candidates.length}개 (검증 통과)`);
+  if (candidates.length === 0 && raw.length > 0) {
+    const q = raw[0];
+    console.log('디버그:', {
+      stmt: typeof q.statement === 'string' && q.statement.length >= 8 && q.statement.length <= 80,
+      ans: typeof q.answer === 'boolean',
+      expl: typeof q.explanation === 'string' && q.explanation.length >= 20,
+      cat: CATEGORIES.includes(q.category),
+      diff: ['easy', 'normal', 'hard'].includes(q.difficulty),
+      dup: known.has(normalize(q.statement)),
+    });
+  }
 
   // 자기 검수: 사실관계가 불확실한 문제 제거
   const checkText = await callClaude(
