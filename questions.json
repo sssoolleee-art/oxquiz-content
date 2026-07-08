@@ -448,5 +448,230 @@
     "explanation": "물은 4°C에서 밀도가 가장 높아요. 그래서 호수가 얼 때 얼음은 위에 뜨고 4°C의 물이 바닥에 가라앉아 물속 생물이 겨울을 날 수 있어요.",
     "category": "science",
     "difficulty": "normal"
+  },
+  {
+    "id": "r0051",
+    "statement": "장미와 사과는 같은 과(科)에 속하는 식물이다.",
+    "answer": true,
+    "correctRate": 0.28,
+    "explanation": "장미과(Rosaceae)에는 장미뿐 아니라 사과, 배, 딸기, 복숭아 등 다양한 식물이 포함돼 있어요. 꽃의 구조가 비슷하다는 공통점이 있답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0052",
+    "statement": "하마는 사람보다 빠르게 달린다.",
+    "answer": true,
+    "correctRate": 0.64,
+    "explanation": "하마는 최대 시속 약 40~48km로 달릴 수 있어요. 사람의 평균 달리기 속도(시속 약 15~20km)보다 훨씬 빠르답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0053",
+    "statement": "한국의 행정구역 중 '도(道)'의 수는 현재 8개이다.",
+    "answer": false,
+    "correctRate": 0.46,
+    "explanation": "대한민국에는 경기도, 강원도, 충청북도, 충청남도, 전라북도, 전라남도, 경상북도, 경상남도, 제주특별자치도까지 9개의 도가 있어요. 특별자치도인 제주도도 포함된답니다.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0054",
+    "statement": "고구마와 감자는 같은 식물 기관(器官)에서 열리는 먹거리이다.",
+    "answer": false,
+    "correctRate": 0.64,
+    "explanation": "감자는 줄기가 땅속에서 비대해진 '덩이줄기'이고, 고구마는 뿌리가 비대해진 '덩이뿌리'예요. 같아 보이지만 식물학적으로 전혀 다른 기관이랍니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0055",
+    "statement": "바나나는 식물학적으로 열매가 아니라 채소에 해당한다.",
+    "answer": false,
+    "correctRate": 0.67,
+    "explanation": "바나나는 꽃이 피고 씨앗을 품는 구조를 가지므로 식물학적으로는 '열매(과일)'에 해당해요. 다만 통상적인 분류에서 혼동이 생기기도 하지만 엄밀히는 과일이랍니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0056",
+    "statement": "한국에서 냉면은 원래 여름이 아닌 겨울 음식이었다.",
+    "answer": true,
+    "correctRate": 0.44,
+    "explanation": "냉면은 조선시대 문헌에 따르면 겨울철에 동치미 국물이나 냉수를 이용해 먹던 음식이에요. 여름 대표 음식이 된 건 근현대 이후의 변화랍니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0057",
+    "statement": "조선시대 양반들은 소고기를 즐겨 먹었다.",
+    "answer": true,
+    "correctRate": 0.57,
+    "explanation": "조선시대에는 농우(農牛) 도살을 법으로 제한했음에도 불구하고 양반 계층은 제사나 연회 등을 통해 소고기를 즐겨 먹었다는 기록이 남아 있어요.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0058",
+    "statement": "대한민국 헌법 제1조 2항은 '대한민국의 주권은 국민에게 있고 모든 권력은 국민으로부터 나온다'이다.",
+    "answer": true,
+    "correctRate": 0.42,
+    "explanation": "현행 대한민국 헌법 제1조 2항에는 '대한민국의 주권은 국민에게 있고, 모든 권력은 국민으로부터 나온다'고 명시돼 있어요.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0059",
+    "statement": "로마 숫자에는 '0'을 나타내는 기호가 없다.",
+    "answer": true,
+    "correctRate": 0.28,
+    "explanation": "로마 숫자 체계에는 0을 표시하는 기호가 존재하지 않아요. 0의 개념은 인도-아라비아 수학에서 발전해 훗날 유럽으로 전해진 것이랍니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0060",
+    "statement": "비타민C는 인간만이 체내에서 합성하지 못하는 영양소이다.",
+    "answer": false,
+    "correctRate": 0.42,
+    "explanation": "비타민C를 체내에서 합성하지 못하는 동물은 인간 외에도 기니피그, 일부 박쥐류, 일부 물고기 등 여러 종이 있어요. 인간만의 특성은 아니랍니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0061",
+    "statement": "한국의 태권도와 중국의 쿵후는 같은 무술 계통에서 파생됐다.",
+    "answer": false,
+    "correctRate": 0.43,
+    "explanation": "태권도는 한국 고유의 전통 무예인 태껸 등을 바탕으로 발전한 무술이에요. 중국 쿵후와 기원이 같다고 보기 어렵고, 학계에서도 별개의 무술 전통으로 분류한답니다.",
+    "category": "sports",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0062",
+    "statement": "김홍도와 신윤복은 같은 시대(조선 후기)에 활동한 화가이다.",
+    "answer": true,
+    "correctRate": 0.41,
+    "explanation": "김홍도(1745~1806년경)와 신윤복(1758~1813년경)은 모두 조선 후기 정조 시대를 전후해 활동한 풍속화가예요. 두 사람 모두 도화서 화원 출신이랍니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0063",
+    "statement": "해파리는 심장과 뇌가 없다.",
+    "answer": true,
+    "correctRate": 0.59,
+    "explanation": "해파리는 심장도, 뇌도, 혈액도 없는 매우 단순한 구조의 생물이에요. 신경망만으로 자극에 반응하며 살아간답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0064",
+    "statement": "세계에서 가장 짧은 강은 길이가 100m도 안 된다.",
+    "answer": true,
+    "correctRate": 0.46,
+    "explanation": "미국 오리건 주의 D강(D River)은 공식 인정된 강 중 가장 짧은 강으로 길이가 약 37m예요. 기네스북에도 등재된 바 있는 기록이랍니다.",
+    "category": "science",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0065",
+    "statement": "조선시대 한양의 사대문 중 북쪽 문은 숙청문이다.",
+    "answer": false,
+    "correctRate": 0.67,
+    "explanation": "한양 사대문에서 북쪽 정문은 숙정문(肅靖門)이에요. '숙청문'은 틀린 표기랍니다. 동쪽은 흥인지문, 서쪽은 돈의문, 남쪽은 숭례문이에요.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0066",
+    "statement": "된장찌개에 넣는 두부는 단백질 공급원이지만 열량은 거의 없다.",
+    "answer": false,
+    "correctRate": 0.68,
+    "explanation": "두부는 단백질이 풍부하지만 지방도 포함돼 있어 100g당 약 70~80kcal의 열량이 있어요. '열량이 거의 없다'는 것은 사실이 아니랍니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0067",
+    "statement": "한국의 전통 술 '막걸리'는 쌀을 원료로 한다.",
+    "answer": true,
+    "correctRate": 0.67,
+    "explanation": "막걸리는 쌀(멥쌀·찹쌀)에 누룩과 물을 넣어 발효시킨 한국 전통 발효주예요. 곡물 발효주의 대표 격으로 수천 년의 역사를 자랑한답니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0068",
+    "statement": "축구 월드컵에서 대한민국이 4강에 오른 것은 2002년이 유일하다.",
+    "answer": true,
+    "correctRate": 0.36,
+    "explanation": "대한민국 축구 대표팀은 2002년 한일 월드컵에서 4강에 진출했으며, 이는 한국 축구 역사상 유일한 4강 기록이에요. 이 성과는 아시아 국가 중에서도 최초랍니다.",
+    "category": "sports",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0069",
+    "statement": "사람의 몸에서 가장 작은 뼈는 귀 안에 있다.",
+    "answer": true,
+    "correctRate": 0.72,
+    "explanation": "인체에서 가장 작은 뼈는 귓속에 있는 등자뼈(등골)예요. 길이가 약 3mm에 불과하며 소리 진동을 달팽이관으로 전달하는 역할을 한답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0070",
+    "statement": "사람의 피부는 인체에서 가장 무거운 기관이다.",
+    "answer": true,
+    "correctRate": 0.59,
+    "explanation": "성인 기준으로 피부의 총 무게는 약 3~5kg으로, 간(약 1.5kg)이나 뇌(약 1.4kg)보다 무거운 인체 최대 기관이에요. 면적도 약 1.5~2㎡에 달한답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0071",
+    "statement": "한국 최초의 지하철은 부산에서 개통됐다.",
+    "answer": false,
+    "correctRate": 0.5,
+    "explanation": "한국 최초의 지하철은 1974년 서울에서 개통된 서울 지하철 1호선이에요. 부산 지하철은 1985년에 개통됐답니다.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0072",
+    "statement": "초콜릿의 원료인 카카오는 원래 아프리카에서 유래했다.",
+    "answer": false,
+    "correctRate": 0.55,
+    "explanation": "카카오나무의 원산지는 중남미(아마존 유역)예요. 아즈텍과 마야 문명에서 먼저 카카오를 음료로 사용했고, 스페인을 통해 유럽에 전파된 뒤 아프리카에서도 재배되기 시작했답니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0073",
+    "statement": "한국에서 처음으로 노벨상을 수상한 사람은 김대중 전 대통령이다.",
+    "answer": true,
+    "correctRate": 0.59,
+    "explanation": "김대중 전 대통령은 2000년에 노벨 평화상을 수상했어요. 한국인 최초의 노벨상 수상자로, 한반도 평화와 민주주의 발전에 기여한 공로를 인정받았답니다.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0074",
+    "statement": "판소리는 유네스코 인류무형문화유산에 등재되어 있다.",
+    "answer": true,
+    "correctRate": 0.46,
+    "explanation": "판소리는 2003년 유네스코 인류무형문화유산으로 등재됐어요. 한 명의 소리꾼과 북 장단을 치는 고수가 함께 공연하는 한국 전통 음악 예술이랍니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0075",
+    "statement": "지구에서 가장 가까운 별은 태양을 제외하면 약 4.2광년 거리에 있다.",
+    "answer": true,
+    "correctRate": 0.38,
+    "explanation": "태양 다음으로 지구에서 가장 가까운 별은 프록시마 켄타우리로 약 4.24광년 떨어져 있어요. 빛의 속도로도 4년 이상 걸리는 먼 거리랍니다.",
+    "category": "science",
+    "difficulty": "normal"
   }
 ]
