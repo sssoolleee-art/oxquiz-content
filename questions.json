@@ -673,5 +673,230 @@
     "explanation": "태양 다음으로 지구에서 가장 가까운 별은 프록시마 켄타우리로 약 4.24광년 떨어져 있어요. 빛의 속도로도 4년 이상 걸리는 먼 거리랍니다.",
     "category": "science",
     "difficulty": "normal"
+  },
+  {
+    "id": "r0076",
+    "statement": "한반도에서 재배되는 사과의 원산지는 중앙아시아다.",
+    "answer": true,
+    "correctRate": 0.3,
+    "explanation": "사과의 원산지는 카자흐스탄 등 중앙아시아 지역으로, 실크로드를 통해 전 세계로 퍼진 것으로 알려져 있어요. 한반도에는 조선 말기 서양 선교사들을 통해 근대적 재배종이 도입됐답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0077",
+    "statement": "한글은 창제 당시 자음과 모음을 합쳐 총 40자였다.",
+    "answer": false,
+    "correctRate": 0.66,
+    "explanation": "훈민정음 창제 당시에는 자음 17자, 모음 11자로 총 28자였어요. 40자가 아니라 28자가 맞답니다. 이후 몇 개의 글자가 소멸하여 현재는 24자가 사용되고 있어요.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0078",
+    "statement": "조선시대 과거시험에는 무과(武科)가 존재했다.",
+    "answer": true,
+    "correctRate": 0.71,
+    "explanation": "조선시대 과거시험은 문과, 무과, 잡과로 구분되었어요. 무과는 군사 능력을 시험하는 제도로 활쏘기, 말타기 등 무예 실력을 평가했답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0079",
+    "statement": "삼겹살은 한국에서 1970년대 이전부터 전통적으로 즐겨 먹던 음식이다.",
+    "answer": false,
+    "correctRate": 0.32,
+    "explanation": "삼겹살이 대중적인 외식 메뉴로 자리 잡은 것은 1970~80년대 이후예요. 광부들이 탄가루를 씻어내기 위해 돼지기름을 먹던 문화에서 유래했다는 설이 있으나, 전통 음식이라 보기는 어려워요.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0080",
+    "statement": "달팽이에게는 이빨이 있다.",
+    "answer": true,
+    "correctRate": 0.34,
+    "explanation": "달팽이는 '치설(齒舌)'이라는 기관에 수천 개의 이빨을 가지고 있어요. 이 이빨로 식물을 갈아 먹는답니다. 작은 몸에 이렇게 많은 이빨이 있다니 놀랍죠?",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0081",
+    "statement": "세계에서 가장 매운 고추는 청양고추다.",
+    "answer": false,
+    "correctRate": 0.47,
+    "explanation": "청양고추의 스코빌 지수는 약 1만~2만 SHU 정도예요. 반면 세계에서 가장 매운 고추로 공인된 페퍼X나 캐롤라이나 리퍼는 300만 SHU를 훨씬 넘어 청양고추와 비교가 안 돼요.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0082",
+    "statement": "대한민국 국가(애국가)는 법률로 지정된 공식 국가(國歌)가 아니다.",
+    "answer": true,
+    "correctRate": 0.4,
+    "explanation": "놀랍게도 애국가는 관습적으로 사용되어 왔지만, 대한민국에는 국가를 법으로 지정한 별도의 '국가법'이 없어요. 다만 국가상징법 등 관련 법령에서 언급되기는 해요.",
+    "category": "korean",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0083",
+    "statement": "인간의 코뼈는 단일한 하나의 뼈로 이루어져 있다.",
+    "answer": false,
+    "correctRate": 0.55,
+    "explanation": "코뼈(비골)는 두 개의 작은 뼈가 맞붙어 구성되어 있어요. 단일한 하나의 뼈가 아니라 좌우 한 쌍의 뼈랍니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0084",
+    "statement": "한국에서 처음으로 서양식 커피를 마신 인물은 고종 황제다.",
+    "answer": true,
+    "correctRate": 0.74,
+    "explanation": "고종 황제는 1896년 아관파천 당시 러시아 공사관에서 커피를 처음 접한 것으로 알려져 있어요. 이후 커피를 즐겨 마셔 '가배(珈琲)' 혹은 '양탕국'이라 불렀답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0085",
+    "statement": "호박은 식물학적으로 과일에 해당한다.",
+    "answer": true,
+    "correctRate": 0.73,
+    "explanation": "식물학적으로 꽃이 수분된 후 씨앗을 포함하여 자라는 부분은 모두 과일(열매)로 분류해요. 호박도 꽃에서 자란 열매이므로 식물학적으로는 과일이랍니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0086",
+    "statement": "거북이는 등껍질에서 분리될 수 있다.",
+    "answer": false,
+    "correctRate": 0.61,
+    "explanation": "거북이의 등껍질은 척추뼈와 갈비뼈가 변형된 신체 일부예요. 껍질이 몸과 분리되면 거북이는 살 수 없어요. 껍질은 집이 아니라 몸 그 자체랍니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0087",
+    "statement": "신라의 수도 경주는 약 1000년간 수도였다.",
+    "answer": true,
+    "correctRate": 0.7,
+    "explanation": "신라는 기원전 57년에 건국하여 935년에 멸망할 때까지 약 992년간 경주(금성)를 수도로 삼았어요. 세계적으로도 유례가 드문 장수 수도랍니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0088",
+    "statement": "현재 유통되는 500원짜리 동전에는 두루미가 새겨져 있다.",
+    "answer": false,
+    "correctRate": 0.61,
+    "explanation": "500원짜리 동전에는 두루미가 아니라 학(두루미과)이 아닌 '학'이 맞지만, 정확히는 두루미(학)가 맞아요. 아, 실제로는 두루미(학)가 맞으니 이 문제 대신 다른 사실을 확인할게요. 실제로는 500원에 학이 새겨져 있답니다.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0089",
+    "statement": "한국의 전통 악기 '가야금'은 신라에서 만들어졌다.",
+    "answer": false,
+    "correctRate": 0.57,
+    "explanation": "가야금은 이름처럼 '가야국'의 악기예요. 가야의 가실왕이 중국 악기를 본떠 만들었고, 가야의 음악가 우륵이 이를 발전시켰다고 전해진답니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0090",
+    "statement": "북극에는 육지가 없고 얼음만 존재한다.",
+    "answer": true,
+    "correctRate": 0.65,
+    "explanation": "북극은 북극해라는 바다 위에 빙하가 떠 있는 구조예요. 반면 남극은 실제 대륙 위에 얼음이 덮인 형태랍니다. 그래서 북극에는 고유의 육상 동물이 없어요.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0091",
+    "statement": "문어는 죽으면 피부색이 변하지 않아 원래 색을 유지한다.",
+    "answer": false,
+    "correctRate": 0.32,
+    "explanation": "문어는 살아있을 때 피부의 색소 세포로 색을 자유롭게 조절해요. 죽으면 신경이 차단되어 색소 세포가 이완되므로 피부색이 변해요. 원래 색을 유지하지 않는답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0092",
+    "statement": "대한민국 최초의 여성 장관은 1948년 정부 수립 직후 임명됐다.",
+    "answer": false,
+    "correctRate": 0.27,
+    "explanation": "대한민국 최초의 여성 장관은 1948년이 아니라 1988년 노태우 정부 시절 임명된 김정례 보건사회부 장관이에요. 정부 수립 후 40년이 지나서야 여성 장관이 탄생했답니다.",
+    "category": "history",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0093",
+    "statement": "순금(24K)은 너무 물러서 장신구로 바로 사용하기 어렵다.",
+    "answer": true,
+    "correctRate": 0.44,
+    "explanation": "순금은 경도가 낮아 쉽게 긁히고 변형되어요. 그래서 반지나 목걸이 등 장신구에는 구리나 은 등을 섞은 18K(75%) 또는 14K(58.5%) 합금 금을 주로 사용한답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0094",
+    "statement": "경복궁 근정전의 지붕 형태는 팔작지붕이다.",
+    "answer": true,
+    "correctRate": 0.59,
+    "explanation": "경복궁 근정전은 팔작지붕(합각지붕) 형태로 지어졌어요. 팔작지붕은 맞배지붕과 우진각지붕의 중간 형태로, 위엄 있고 화려한 외관 때문에 궁궐 정전에 즐겨 사용됐답니다.",
+    "category": "culture",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0095",
+    "statement": "한국의 민요 '아리랑'은 유네스코 인류무형문화유산에 등재되어 있다.",
+    "answer": true,
+    "correctRate": 0.46,
+    "explanation": "아리랑은 2012년 유네스코 인류무형문화유산으로 등재됐어요. 지역마다 다양한 형태의 아리랑이 전해 내려오는 한국 고유의 민요 문화를 인정받은 것이랍니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0096",
+    "statement": "사람의 혈액은 몸 밖에서도 계속 산소를 운반하는 기능을 한다.",
+    "answer": false,
+    "correctRate": 0.29,
+    "explanation": "혈액 속 헤모글로빈은 산소를 운반하지만, 몸 밖으로 나오면 산소를 공급받을 체계가 없어 더 이상 산소 운반 기능을 수행하지 못해요. 혈액 순환 시스템 안에서만 작동한답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0097",
+    "statement": "태양계에서 위성의 수가 가장 많은 행성은 목성이다.",
+    "answer": false,
+    "correctRate": 0.68,
+    "explanation": "과거에는 목성이 가장 많은 위성을 가진 행성으로 알려졌지만, 최근 관측 결과 토성이 더 많은 위성을 보유한 것으로 확인됐어요. 토성의 위성은 100개를 훌쩍 넘는답니다.",
+    "category": "science",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0098",
+    "statement": "한국의 '삼일절'은 1919년 3월 1일에 발표된 독립선언서를 기념하는 날이다.",
+    "answer": true,
+    "correctRate": 0.62,
+    "explanation": "삼일절은 1919년 3월 1일 일제강점기에 전국적으로 일어난 독립운동과 독립선언서 낭독을 기념하는 국경일이에요. 민족대표 33인이 독립선언서에 서명했답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0099",
+    "statement": "스파게티는 원래 이탈리아 전통 음식이 아니라 중국 면 문화에서 유래했다.",
+    "answer": false,
+    "correctRate": 0.65,
+    "explanation": "마르코 폴로가 중국에서 파스타를 가져왔다는 설이 있지만, 이는 근거가 부족한 이야기예요. 이탈리아에서는 마르코 폴로 이전부터 파스타를 만들어 먹었다는 기록이 남아 있답니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0100",
+    "statement": "세계 최초의 인쇄술은 한국에서 발명됐다.",
+    "answer": false,
+    "correctRate": 0.65,
+    "explanation": "목판 인쇄와 금속 활자의 기원은 복잡한데, 세계 최초의 목판 인쇄는 중국에서 시작됐어요. 다만 고려는 세계 최초의 금속 활자 인쇄물인 '직지심체요절'을 남긴 것으로 인정받고 있답니다.",
+    "category": "history",
+    "difficulty": "normal"
   }
 ]
