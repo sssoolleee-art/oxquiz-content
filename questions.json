@@ -898,5 +898,230 @@
     "explanation": "목판 인쇄와 금속 활자의 기원은 복잡한데, 세계 최초의 목판 인쇄는 중국에서 시작됐어요. 다만 고려는 세계 최초의 금속 활자 인쇄물인 '직지심체요절'을 남긴 것으로 인정받고 있답니다.",
     "category": "history",
     "difficulty": "normal"
+  },
+  {
+    "id": "r0101",
+    "statement": "한국의 전통 발효식품 '청국장'은 된장보다 발효 기간이 훨씬 짧다.",
+    "answer": true,
+    "correctRate": 0.66,
+    "explanation": "된장은 수개월~수년간 발효하지만, 청국장은 보통 2~3일이면 완성돼요. 짧은 발효 기간 덕분에 청국장은 납두균(바실러스 서브틸리스)이 풍부하게 살아있답니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0102",
+    "statement": "포유류 중 유일하게 날 수 있는 동물은 박쥐다.",
+    "answer": true,
+    "correctRate": 0.59,
+    "explanation": "날다람쥐처럼 활강하는 포유류는 있지만, 실제로 날갯짓을 통해 비행하는 포유류는 박쥐가 유일해요. 박쥐의 날개는 앞다리가 변형된 구조랍니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0103",
+    "statement": "조선 시대 '암행어사'는 왕이 직접 임명했다.",
+    "answer": true,
+    "correctRate": 0.65,
+    "explanation": "암행어사는 왕이 비밀리에 임명하여 지방 관리의 비리를 감찰하게 한 제도예요. 마패와 유서(임명장)를 받아 신분을 숨기고 활동했답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0104",
+    "statement": "사람의 체온은 36.5°C로 일정하게 유지된다.",
+    "answer": false,
+    "correctRate": 0.44,
+    "explanation": "사람의 체온은 하루 중에도 0.5~1°C 정도 변화해요. 새벽에 가장 낮고 오후에 가장 높으며, 운동이나 식사 후에도 달라진답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0105",
+    "statement": "대동여지도를 만든 김정호는 지도를 만들었다는 이유로 옥에 갇혀 죽었다.",
+    "answer": false,
+    "correctRate": 0.75,
+    "explanation": "김정호가 투옥되어 사망했다는 기록은 일제강점기에 만들어진 이야기로, 역사적 근거가 없어요. 실제로는 그의 사망 경위가 기록에 남아 있지 않답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0106",
+    "statement": "한국의 전통 혼례에서 신랑은 나무 기러기를 신부 어머니에게 바쳤다.",
+    "answer": true,
+    "correctRate": 0.47,
+    "explanation": "전통 혼례의 '전안례(奠雁禮)'에서 신랑이 기러기(나무 모형 또는 실제)를 예물로 바치는 풍습이 있었어요. 기러기는 한 번 짝을 맺으면 변치 않는다는 의미를 담고 있답니다.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0107",
+    "statement": "프랑스 파리의 에펠탑은 처음 건설될 때 영구 구조물로 계획되었다.",
+    "answer": false,
+    "correctRate": 0.42,
+    "explanation": "에펠탑은 1889년 파리 만국박람회를 위한 임시 구조물로 설계됐어요. 20년 후 철거 예정이었지만, 무선 안테나 탑으로 활용 가치가 생겨 그대로 남게 됐답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0108",
+    "statement": "한국어에서 '시치미를 떼다'의 '시치미'는 매(鷹)에 다는 이름표에서 유래했다.",
+    "answer": true,
+    "correctRate": 0.59,
+    "explanation": "시치미는 조선 시대 매사냥에서 매의 주인을 표시하기 위해 달아두던 작은 뿔 이름표예요. 다른 사람이 주인의 시치미를 떼어 자기 매로 삼는 데서 '모르는 척한다'는 의미가 생겼답니다.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0109",
+    "statement": "커피는 원래 먹는 음식(열매)으로 처음 사용됐다.",
+    "answer": true,
+    "correctRate": 0.46,
+    "explanation": "커피의 기원지인 에티오피아에서는 처음에 커피 열매를 볶아 갈아서 동물성 지방과 섞어 경단처럼 만들어 먹었어요. 음료로 마시게 된 것은 그 이후랍니다.",
+    "category": "food",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0110",
+    "statement": "한국프로축구(K리그)는 아시아에서 가장 오래된 프로 축구 리그다.",
+    "answer": true,
+    "correctRate": 0.6,
+    "explanation": "K리그는 1983년에 창설되어 아시아 최초의 프로 축구 리그예요. 일본의 J리그(1993년)보다 10년 앞서 출범했답니다.",
+    "category": "sports",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0111",
+    "statement": "오징어는 몸 안에 뼈(지지대)가 전혀 없다.",
+    "answer": false,
+    "correctRate": 0.51,
+    "explanation": "오징어는 '투명뼈'라 불리는 키틴질로 이루어진 연체 구조(펜 또는 글래디우스)가 몸 안에 있어요. 이것이 오징어 몸을 지탱하는 역할을 한답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0112",
+    "statement": "소주의 알코올 도수는 1970년대보다 지금이 더 낮다.",
+    "answer": true,
+    "correctRate": 0.28,
+    "explanation": "1970년대 소주의 도수는 30도 이상이었지만, 시대가 지나면서 점차 낮아져 현재 시중에서 많이 팔리는 소주는 16~17도 수준이에요. 소비자 기호 변화가 영향을 줬답니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0113",
+    "statement": "독도는 행정구역상 경상북도 울릉군에 속한다.",
+    "answer": true,
+    "correctRate": 0.64,
+    "explanation": "독도는 행정구역상 경상북도 울릉군 울릉읍 독도리에 속해 있어요. 동도와 서도 두 개의 큰 섬과 89개의 부속 도서로 이루어져 있답니다.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0114",
+    "statement": "지구에서 가장 깊은 곳은 마리아나 해구로, 에베레스트산 높이보다 깊다.",
+    "answer": true,
+    "correctRate": 0.66,
+    "explanation": "마리아나 해구의 챌린저 딥은 약 11,000m 깊이로, 에베레스트산 높이(약 8,849m)보다 더 깊어요. 즉 에베레스트를 그 안에 넣어도 꼭대기가 잠긴답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0115",
+    "statement": "한국의 전통 놀이 '윷놀이'는 중국에서 전래된 놀이다.",
+    "answer": false,
+    "correctRate": 0.57,
+    "explanation": "윷놀이는 한반도 고유의 전통 놀이로 알려져 있어요. 윷판의 구조가 고대 한국의 우주관·지리관을 반영한다는 연구도 있으며, 중국 유래설은 학계에서 인정되지 않는답니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0116",
+    "statement": "사람이 재채기를 할 때 눈을 뜨고 있는 것은 불가능하다.",
+    "answer": false,
+    "correctRate": 0.26,
+    "explanation": "재채기 시 눈이 감기는 것은 반사 작용이지만, 의식적으로 눈을 뜨고 재채기하는 것이 가능해요. '재채기하면 눈이 빠진다'는 속설도 사실이 아니랍니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0117",
+    "statement": "알렉산더 대왕은 이집트를 정복한 뒤 파라오 칭호를 받았다.",
+    "answer": true,
+    "correctRate": 0.26,
+    "explanation": "기원전 332년 이집트를 정복한 알렉산더 대왕은 이집트인들로부터 파라오로 추대됐어요. 그는 아문 신의 아들로 인정받아 이집트 전통 방식으로 즉위식을 치렀답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0118",
+    "statement": "고추냉이(와사비)와 서양 겨자(머스터드)는 같은 식물이다.",
+    "answer": false,
+    "correctRate": 0.33,
+    "explanation": "와사비와 머스터드는 모두 겨자과 식물이지만 서로 다른 종이에요. 실제로 한국·일본에서 '와사비'로 유통되는 것의 상당수는 서양 고추냉이(호스래디쉬)에 색소를 넣은 것이랍니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0119",
+    "statement": "태양의 빛이 지구에 도달하는 데 약 8분이 걸린다.",
+    "answer": true,
+    "correctRate": 0.53,
+    "explanation": "태양과 지구의 평균 거리는 약 1억 5천만 km로, 빛의 속도(초속 약 30만 km)로 이동하면 약 8분 20초가 걸려요. 우리가 보는 태양은 8분 전의 태양인 셈이랍니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0120",
+    "statement": "한국 최초의 영화는 1919년에 상영됐다.",
+    "answer": true,
+    "correctRate": 0.34,
+    "explanation": "한국 최초의 영화로 기록된 '의리적 구토'는 1919년 단성사에서 처음 공개됐어요. 김도산이 제작·감독한 이 작품은 연극과 영상을 결합한 형태였답니다.",
+    "category": "culture",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0121",
+    "statement": "물은 온도가 높을수록 소금이 더 많이 녹는다.",
+    "answer": true,
+    "correctRate": 0.58,
+    "explanation": "소금(염화나트륨)은 온도가 올라갈수록 물에 더 잘 녹아요. 이처럼 고체 물질은 대부분 온도가 높은 용매에 더 잘 용해되는 성질이 있답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0122",
+    "statement": "거미는 곤충(곤충강)에 속한다.",
+    "answer": false,
+    "correctRate": 0.72,
+    "explanation": "거미는 거미강(Arachnida)에 속하는 절지동물이에요. 곤충은 다리가 6개이지만 거미는 다리가 8개이고, 더듬이와 날개가 없다는 점에서 곤충과 구분된답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0123",
+    "statement": "조선 시대 성균관 유생들은 학교 내에서 시위(권당)를 통해 왕에게 의견을 전달할 수 있었다.",
+    "answer": true,
+    "correctRate": 0.57,
+    "explanation": "성균관 유생들은 '권당(捲堂)'이라 하여 집단으로 식사를 거부하거나 학교를 비우는 방식으로 왕과 조정에 항의할 수 있었어요. 이는 공식적으로 인정된 관행이었답니다.",
+    "category": "history",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0124",
+    "statement": "기린의 혀는 보라색이다.",
+    "answer": true,
+    "correctRate": 0.71,
+    "explanation": "기린의 혀는 짙은 청보라~검은 빛을 띠어요. 이는 강한 햇볕에 혀가 자주 노출되기 때문에 멜라닌 색소가 발달하여 자외선으로부터 보호하는 기능을 한다고 알려져 있답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0125",
+    "statement": "한국의 '단오'는 음력 5월 5일로, 중국의 단오와 날짜가 같다.",
+    "answer": true,
+    "correctRate": 0.67,
+    "explanation": "한국의 단오와 중국의 단오(端午節)는 모두 음력 5월 5일이에요. 하지만 풍습은 다르게 발전했고, 한국 강릉 단오제는 유네스코 인류무형문화유산에 등재되어 있답니다.",
+    "category": "culture",
+    "difficulty": "normal"
   }
 ]
