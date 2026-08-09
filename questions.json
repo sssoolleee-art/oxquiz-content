@@ -1573,5 +1573,230 @@
     "explanation": "전통 포도 발효 방식에서는 맨발로 포도를 밟는 것이 정석이에요. 신발의 이물질이 와인 맛을 해칠 수 있기 때문에 청결한 맨발을 사용했답니다.",
     "category": "food",
     "difficulty": "normal"
+  },
+  {
+    "id": "r0176",
+    "statement": "한국의 전통 색동옷은 원래 아이들의 장수를 기원하는 의미를 담고 있다.",
+    "answer": true,
+    "correctRate": 0.28,
+    "explanation": "색동은 여러 색이 액운을 막고 복을 부른다는 믿음에서 주로 돌이나 명절에 어린아이에게 입혔어요. 장수와 건강을 기원하는 대표적인 전통 의복 문화예요.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0177",
+    "statement": "한국의 '한산 모시짜기'는 유네스코 인류무형문화유산에 등재되어 있다.",
+    "answer": true,
+    "correctRate": 0.57,
+    "explanation": "충남 서천 한산 지역의 모시짜기는 2011년 유네스코 인류무형문화유산으로 등재됐어요. 한산 모시는 삼국시대부터 이어져 온 고급 직물 전통이에요.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0178",
+    "statement": "연어는 태어난 강으로 돌아와 산란하는 유일한 물고기다.",
+    "answer": false,
+    "correctRate": 0.31,
+    "explanation": "연어처럼 태어난 곳으로 돌아와 산란하는 '모천회귀' 습성은 송어, 은어 등 여러 어종에서도 나타나요. 연어가 대표적이지만 유일하지는 않답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0179",
+    "statement": "조선시대 한양에는 도성 안 하천의 범람을 막기 위해 청계천을 인공적으로 정비했다.",
+    "answer": true,
+    "correctRate": 0.54,
+    "explanation": "태종과 세종 때 청계천(당시 개천)을 준설하고 둑을 쌓는 대규모 토목공사를 시행했어요. 도성 내 배수와 홍수 방지를 위한 국가 사업이었답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0180",
+    "statement": "한국 전통 가옥 한옥의 온돌은 고구려 시대부터 존재했다.",
+    "answer": true,
+    "correctRate": 0.37,
+    "explanation": "고구려 유적지에서 쪽구들(부분 온돌) 흔적이 발견됐어요. 초기 형태는 일부 공간만 데우는 방식이었고 이후 조선시대에 방 전체를 덮는 전면 온돌로 발전했답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0181",
+    "statement": "갓 구운 빵은 완전히 식은 빵보다 칼로리가 높다.",
+    "answer": false,
+    "correctRate": 0.6,
+    "explanation": "빵의 칼로리는 굽기 전 재료에 의해 결정되며, 온도 차이가 칼로리를 바꾸지는 않아요. 따뜻하면 향이 강해져 더 맛있게 느껴질 수 있지만 칼로리는 동일해요.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0182",
+    "statement": "한국의 전통 탈춤은 유네스코 인류무형문화유산에 등재되어 있다.",
+    "answer": true,
+    "correctRate": 0.31,
+    "explanation": "한국의 탈춤은 2022년 유네스코 인류무형문화유산으로 등재됐어요. 봉산탈춤, 하회별신굿탈놀이 등 다양한 지역 탈춤이 하나로 묶여 등재된 거예요.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0183",
+    "statement": "철은 금보다 지구 지각에 더 풍부하게 존재한다.",
+    "answer": true,
+    "correctRate": 0.59,
+    "explanation": "지구 지각에서 철의 함량은 약 5%로 산소, 규소, 알루미늄에 이어 네 번째로 많은 원소예요. 반면 금은 지각 내 농도가 극히 낮아 희귀 금속으로 분류돼요.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0184",
+    "statement": "조선시대 여성들은 성(姓)을 결혼 후 남편의 성으로 바꾸었다.",
+    "answer": false,
+    "correctRate": 0.51,
+    "explanation": "한국은 예로부터 결혼 후에도 여성이 자신의 성을 유지하는 문화였어요. 남편 성을 따르는 것은 서양의 풍습으로, 조선시대 여성들은 태어난 성을 그대로 사용했답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0185",
+    "statement": "하루에 물을 8잔(약 2리터) 마셔야 한다는 것은 과학적으로 검증된 사실이다.",
+    "answer": false,
+    "correctRate": 0.37,
+    "explanation": "하루 8잔 기준은 과학적 근거가 희박해요. 필요한 수분량은 개인의 체중·활동량·기후에 따라 다르며, 음식에서도 수분을 섭취하기 때문에 일률적 기준을 적용하기 어렵답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0186",
+    "statement": "한국의 명절 음식 '송편'은 추석에만 먹는 음식이었다.",
+    "answer": false,
+    "correctRate": 0.52,
+    "explanation": "송편은 추석에 대표적으로 먹지만, 조선시대에는 정월대보름·삼짇날·단오 등 다양한 명절과 제사에도 만들어 먹었어요. 추석 전용 음식은 아니었답니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0187",
+    "statement": "태권도는 1988년 서울 올림픽에서 처음으로 정식 종목이 됐다.",
+    "answer": false,
+    "correctRate": 0.33,
+    "explanation": "태권도는 1988년 서울 올림픽과 1992년 바르셀로나 올림픽에서 시범 종목으로만 채택됐어요. 정식 올림픽 종목이 된 것은 2000년 시드니 올림픽부터예요.",
+    "category": "sports",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0188",
+    "statement": "북한산은 서울 시내에서 가장 높은 산이다.",
+    "answer": true,
+    "correctRate": 0.54,
+    "explanation": "북한산의 최고봉 백운대는 해발 836.5m로 서울 시내에서 가장 높은 산이에요. 서울 도심과 가까이 있어 연간 수백만 명이 찾는 국립공원이기도 해요.",
+    "category": "common",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0189",
+    "statement": "세계 최초의 금속활자는 고려에서 만들어졌다.",
+    "answer": true,
+    "correctRate": 0.57,
+    "explanation": "고려는 13세기에 세계 최초로 금속활자를 발명했어요. 구텐베르크의 금속활자보다 약 200년 이상 앞선 것으로 '직지심체요절'이 현존 최고(最古)의 금속활자 인쇄물로 공인돼 있어요.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0190",
+    "statement": "펭귄은 남극과 북극 모두에서 자연 서식한다.",
+    "answer": false,
+    "correctRate": 0.46,
+    "explanation": "펭귄은 남반구에만 자연 서식해요. 남극뿐 아니라 남아프리카·뉴질랜드·갈라파고스 제도에도 살지만, 북극에는 야생 펭귄이 존재하지 않아요.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0191",
+    "statement": "조선시대 왕실에서 사용하던 그릇은 주로 백자였다.",
+    "answer": true,
+    "correctRate": 0.52,
+    "explanation": "고려청자의 뒤를 이어 조선시대 왕실에서는 순백의 백자를 선호했어요. 유교 이념의 검소함과 순결함을 상징해 왕실과 사대부가 즐겨 사용한 대표 도자기예요.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0192",
+    "statement": "한국의 '강강술래'는 임진왜란과 관련이 있다는 설이 있다.",
+    "answer": true,
+    "correctRate": 0.39,
+    "explanation": "강강술래가 이순신 장군이 왜군을 교란하기 위해 여성들을 원형으로 돌게 해 병력이 많아 보이게 했다는 유래설이 전해져요. 다만 이는 민간 전설로, 기원에 대한 여러 학설 중 하나예요.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0193",
+    "statement": "다이아몬드는 흑연과 같은 원소(탄소)로 이루어져 있다.",
+    "answer": true,
+    "correctRate": 0.39,
+    "explanation": "다이아몬드와 흑연은 모두 탄소(C) 원자로만 이루어져 있어요. 원자 배열 구조만 다를 뿐인데, 그 차이가 세상에서 가장 단단한 물질과 연필심 재료라는 극단적 차이를 만들어낸답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0194",
+    "statement": "한국의 '동의보감'은 일본에서도 의학서로 활용됐다.",
+    "answer": true,
+    "correctRate": 0.48,
+    "explanation": "광해군 때 허준이 편찬한 동의보감은 조선뿐 아니라 중국과 일본에도 수출돼 의학서로 활용됐어요. 2009년 유네스코 세계기록유산으로도 등재된 세계적 의학 고전이에요.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0195",
+    "statement": "사람이 음식을 먹을 때 느끼는 맛의 대부분은 사실 혀가 아닌 코에서 느끼는 것이다.",
+    "answer": true,
+    "correctRate": 0.35,
+    "explanation": "혀는 단맛·짠맛·신맛·쓴맛·감칠맛 5가지 기본 맛만 감지해요. 음식의 풍미 대부분은 후각이 담당하는데, 코를 막으면 음식 맛을 거의 구별하기 어려운 것이 그 증거예요.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0196",
+    "statement": "축구 경기에서 골키퍼는 자기 진영 어디서든 손을 사용할 수 있다.",
+    "answer": false,
+    "correctRate": 0.39,
+    "explanation": "골키퍼는 자신의 페널티 박스 안에서만 손을 사용할 수 있어요. 박스 밖에서 손을 쓰면 핸드볼 반칙이 적용되고, 심할 경우 퇴장까지 선언될 수 있답니다.",
+    "category": "sports",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0197",
+    "statement": "한글 창제 당시 훈민정음의 원리를 설명한 해설서 '훈민정음 해례본'은 1940년대에야 발견됐다.",
+    "answer": true,
+    "correctRate": 0.66,
+    "explanation": "훈민정음 해례본은 1940년 경북 안동에서 발견됐어요. 이 책이 발견되기 전까지는 한글의 창제 원리가 정확히 알려지지 않았고, 발견 이후 한글날 날짜도 수정됐답니다.",
+    "category": "korean",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0198",
+    "statement": "프랑스 에펠탑은 완공 후 20년간만 존치하기로 계획된 임시 구조물이었다.",
+    "answer": true,
+    "correctRate": 0.26,
+    "explanation": "에펠탑은 1889년 파리 만국박람회를 위해 지어진 임시 구조물로, 20년 후 철거할 예정이었어요. 하지만 무선 통신 안테나로 활용 가치가 생기면서 철거를 면하고 지금까지 남게 됐답니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0199",
+    "statement": "한국의 '판소리 다섯 마당' 중 하나인 '변강쇠가'는 현재 음악이 전해지지 않는다.",
+    "answer": true,
+    "correctRate": 0.65,
+    "explanation": "판소리 열두 마당 중 현재까지 음악이 전해지는 것은 춘향가·심청가·흥보가·수궁가·적벽가 다섯 마당뿐이에요. 변강쇠가를 포함한 나머지 일곱 마당은 가사만 일부 전해지고 음악은 소실됐어요.",
+    "category": "culture",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0200",
+    "statement": "한국에서 전통적으로 '복날'은 여름에 세 번 있다.",
+    "answer": true,
+    "correctRate": 0.71,
+    "explanation": "초복·중복·말복을 합쳐 '삼복(三伏)'이라고 하며 모두 여름에 있어요. 각각 10일 간격으로 오는 것이 일반적이지만, 말복은 중복 이후 10일 혹은 20일 후에 오기도 해요.",
+    "category": "common",
+    "difficulty": "normal"
   }
 ]
