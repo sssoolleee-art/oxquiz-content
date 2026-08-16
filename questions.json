@@ -1798,5 +1798,230 @@
     "explanation": "초복·중복·말복을 합쳐 '삼복(三伏)'이라고 하며 모두 여름에 있어요. 각각 10일 간격으로 오는 것이 일반적이지만, 말복은 중복 이후 10일 혹은 20일 후에 오기도 해요.",
     "category": "common",
     "difficulty": "normal"
+  },
+  {
+    "id": "r0201",
+    "statement": "문어의 피는 철(Fe) 성분을 포함하고 있어 붉은색이다.",
+    "answer": false,
+    "correctRate": 0.34,
+    "explanation": "문어의 피는 철이 아닌 구리(Cu) 성분이 포함된 헤모시아닌이라는 단백질을 사용하기 때문에 파란색이에요. 산소와 결합하면 파란빛을 띠는 것이 특징이랍니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0202",
+    "statement": "사람의 손가락 뼈는 엄지를 포함해 한 손에 총 14개다.",
+    "answer": true,
+    "correctRate": 0.34,
+    "explanation": "엄지는 2개, 나머지 손가락은 각각 3개의 뼈로 이루어져 있어 한 손에 총 14개의 손가락 뼈가 있어요. 여기에 손바닥뼈(중수골) 5개와 손목뼈 8개를 합치면 한 손에 총 27개의 뼈가 있답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0203",
+    "statement": "김치는 고추가 한반도에 전래되기 이전부터 만들어졌다.",
+    "answer": true,
+    "correctRate": 0.58,
+    "explanation": "고추는 임진왜란(1592년) 전후에 한반도에 전래된 것으로 알려져 있어요. 그 이전에도 김치는 존재했으며, 초기에는 소금이나 장으로 절인 형태였고 고추가 없는 백김치 계통이었답니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0204",
+    "statement": "지구의 대기 중에서 산소가 가장 많은 비율을 차지한다.",
+    "answer": false,
+    "correctRate": 0.54,
+    "explanation": "지구 대기의 약 78%는 질소(N₂)이고, 산소(O₂)는 약 21%를 차지해요. 많은 분들이 산소가 가장 많다고 착각하시는데, 사실은 질소가 압도적으로 많답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0205",
+    "statement": "조선시대에 '홍길동전'을 쓴 허균은 실제로 역모죄로 처형됐다.",
+    "answer": true,
+    "correctRate": 0.34,
+    "explanation": "허균은 조선 광해군 때 역모를 꾀했다는 죄목으로 1618년에 처형됐어요. 소설 속 홍길동처럼 기존 질서에 저항하는 사상을 가졌던 인물로 평가받고 있답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0206",
+    "statement": "한국의 전통 악기 '해금'은 현(줄)이 두 개뿐이다.",
+    "answer": true,
+    "correctRate": 0.69,
+    "explanation": "해금은 두 개의 줄로 이루어진 찰현악기로, 활로 줄을 문질러 소리를 내요. 두 줄만으로도 다양한 음역을 표현할 수 있어 '깡깡이'라는 별명도 가지고 있답니다.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0207",
+    "statement": "성인 인체의 뼈 개수는 어린이의 뼈 개수보다 많다.",
+    "answer": false,
+    "correctRate": 0.59,
+    "explanation": "어린이는 약 300개 이상의 뼈를 가지고 태어나지만, 성장하면서 여러 뼈가 합쳐져 성인이 되면 약 206개로 줄어들어요. 성장 과정에서 뼈가 서로 붙어 융합되기 때문이랍니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0208",
+    "statement": "한국 최초의 서양식 근대 우편 제도는 갑신정변이 일어난 해에 시작됐다.",
+    "answer": true,
+    "correctRate": 0.47,
+    "explanation": "조선의 근대 우편 제도인 우정총국은 1884년에 개설됐어요. 바로 그 해에 갑신정변이 일어났고, 우정총국 개국 축하연이 갑신정변의 신호탄이 된 것으로도 유명하답니다.",
+    "category": "history",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0209",
+    "statement": "시금치와 딸기는 같은 과(科)에 속하는 식물이다.",
+    "answer": false,
+    "correctRate": 0.52,
+    "explanation": "시금치는 명아주과(비름과)에 속하고, 딸기는 장미과에 속해요. 겉모습이나 맛이 전혀 달라 같은 과라고 생각하기 어렵지만, 실제로도 전혀 다른 분류에 속한답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0210",
+    "statement": "한국 프로야구(KBO)는 1982년에 창설됐다.",
+    "answer": true,
+    "correctRate": 0.75,
+    "explanation": "KBO 리그는 1982년에 6개 구단으로 출범했어요. 아시아에서 일본 프로야구(1936년)에 이어 두 번째로 오래된 프로야구 리그로, 올해로 40년 이상의 역사를 자랑한답니다.",
+    "category": "sports",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0211",
+    "statement": "고려청자의 비색(翡色)은 중국 도자기 기술을 그대로 모방한 것이다.",
+    "answer": false,
+    "correctRate": 0.67,
+    "explanation": "고려청자는 초기에 중국 기술의 영향을 받았지만, 이후 독자적인 비색과 상감청자 기법을 개발해 독창적인 예술 세계를 이뤘어요. 당시 중국에서도 고려청자의 비색을 천하제일이라고 극찬했다는 기록이 남아 있답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0212",
+    "statement": "한국의 전통 음식 '식혜'는 엿기름(맥아)을 이용해 만든다.",
+    "answer": true,
+    "correctRate": 0.44,
+    "explanation": "식혜는 찹쌀밥이나 멥쌀밥에 엿기름(보리의 맥아)을 우린 물을 부어 발효시켜 만드는 전통 음료예요. 엿기름 속의 아밀라아제 효소가 밥의 전분을 분해해 단맛을 만들어낸답니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0213",
+    "statement": "사람은 혀의 특정 부위에서 특정 맛(단맛, 쓴맛 등)만 느낄 수 있다.",
+    "answer": false,
+    "correctRate": 0.64,
+    "explanation": "과거에는 혀 지도(taste map)를 통해 단맛은 혀 앞쪽, 쓴맛은 혀 뒤쪽에서만 느낀다고 가르쳤지만, 이는 잘못된 이론이에요. 현재 과학적으로는 모든 맛을 혀 전체에서 느낄 수 있다는 것이 정설이랍니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0214",
+    "statement": "한국의 '씨름'은 유네스코 인류무형문화유산에 등재되어 있다.",
+    "answer": true,
+    "correctRate": 0.48,
+    "explanation": "한국의 씨름은 2018년 유네스코 인류무형문화유산에 등재됐어요. 특이하게도 남한과 북한이 공동으로 등재 신청해 함께 목록에 올라간 사례로 화제를 모았답니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0215",
+    "statement": "바퀴벌레는 머리가 없어도 수주일간 생존할 수 있다.",
+    "answer": true,
+    "correctRate": 0.69,
+    "explanation": "바퀴벌레는 뇌가 아닌 각 체절의 신경절로 기본적인 신체 기능을 유지할 수 있어요. 머리가 잘려도 최대 몇 주간 생존하다가 결국 수분을 섭취하지 못해 탈수로 죽게 된답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0216",
+    "statement": "대한민국 국화(國花)인 무궁화는 법률로 공식 지정된 국화다.",
+    "answer": false,
+    "correctRate": 0.27,
+    "explanation": "무궁화는 오랜 관행과 전통으로 국화로 여겨지고 있지만, 애국가와 마찬가지로 법률로 공식 지정된 국화는 아니에요. 별도의 법적 근거 없이 관습적으로 국화로 사용되고 있답니다.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0217",
+    "statement": "조선 왕조에서 가장 오래 재위한 왕은 영조다.",
+    "answer": true,
+    "correctRate": 0.5,
+    "explanation": "영조는 1724년부터 1776년까지 약 52년간 재위해 조선 27대 왕 중 가장 긴 재위 기간을 기록했어요. 탕평책을 실시하고 균역법을 시행하는 등 굵직한 업적을 남긴 왕이기도 하답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0218",
+    "statement": "한국의 전통 놀이 '고누'는 바둑과 동일한 규칙으로 진행된다.",
+    "answer": false,
+    "correctRate": 0.65,
+    "explanation": "고누는 바둑과는 전혀 다른 전통 놀이예요. 땅이나 판에 그림을 그려 말을 움직여 상대방 말을 가두거나 통행을 차단하는 방식으로 진행되는 놀이로, 규칙이 바둑과 완전히 다르답니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0219",
+    "statement": "설탕은 에너지원으로만 쓰이고 체내에서 지방으로 전환되지 않는다.",
+    "answer": false,
+    "correctRate": 0.71,
+    "explanation": "설탕을 과다 섭취하면 체내에서 포도당으로 분해된 후, 에너지로 사용되고 남은 양은 지방으로 전환되어 체내에 축적될 수 있어요. 이것이 당류 과다 섭취가 비만으로 이어지는 주요 원인 중 하나랍니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0220",
+    "statement": "세종대왕은 한글 창제 당시 신하들의 강력한 반대에 부딪혔다.",
+    "answer": true,
+    "correctRate": 0.34,
+    "explanation": "집현전 학자인 최만리 등 많은 신하들이 한글 창제에 반대하는 상소를 올렸어요. 중국 한자를 버리고 새 문자를 만드는 것이 사대부 문화에 맞지 않는다는 이유였으며, 세종대왕은 이를 물리치고 한글을 창제했답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0221",
+    "statement": "물고기는 물속에서도 익사(溺死)할 수 있다.",
+    "answer": true,
+    "correctRate": 0.64,
+    "explanation": "물속 산소 농도가 지나치게 낮아지면 물고기도 산소 부족으로 죽을 수 있어요. 수질 오염이나 녹조 현상으로 물속 용존 산소량이 급감하면 물고기가 떼죽음을 당하는 경우가 실제로 발생한답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0222",
+    "statement": "한국 전통 가옥 한옥에서 방위상 남쪽을 향한 방향을 '남향'이라 하며, 전통적으로 가장 선호되는 방향이었다.",
+    "answer": true,
+    "correctRate": 0.37,
+    "explanation": "전통적으로 한옥은 햇빛을 최대한 받고 북쪽 차가운 바람을 등지기 위해 남향을 선호했어요. 배산임수(背山臨水)라는 풍수 원칙과도 연결되어 한국의 집터 선정에서 오랜 관습으로 이어져 왔답니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0223",
+    "statement": "사람의 맹장(충수)은 아무런 기능이 없는 퇴화 기관이다.",
+    "answer": false,
+    "correctRate": 0.44,
+    "explanation": "과거에는 맹장이 퇴화 기관이라고 여겨졌지만, 현대 연구에 따르면 장내 유익균을 보존하는 역할을 한다는 주장이 제기되고 있어요. 완전히 기능이 없다고 단정 짓기는 어렵다는 것이 최근의 과학적 견해랍니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0224",
+    "statement": "조선시대 '사헌부'와 '사간원'은 왕의 잘못도 비판할 수 있는 언론 기관이었다.",
+    "answer": true,
+    "correctRate": 0.64,
+    "explanation": "사헌부와 사간원은 조선시대 대표적인 언론(言論) 기관으로, 관리의 비리를 감찰하고 왕의 잘못된 정책이나 행동에 대해서도 간언(諫言)할 수 있는 권한을 가지고 있었어요. 이 두 기관을 합쳐 '양사(兩司)'라고 불렀답니다.",
+    "category": "history",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0225",
+    "statement": "벌은 단 한 번 침을 쏘면 반드시 죽는다.",
+    "answer": false,
+    "correctRate": 0.45,
+    "explanation": "꿀벌(일벌)은 거친 피부에 침이 박혀 내장이 빠져나와 죽지만, 말벌이나 여왕벌은 침에 갈고리가 없어 여러 번 쏠 수 있어요. 모든 벌이 한 번만 쏘고 죽는다는 것은 꿀벌에만 해당되는 사실이랍니다.",
+    "category": "science",
+    "difficulty": "normal"
   }
 ]
