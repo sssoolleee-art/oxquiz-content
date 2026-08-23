@@ -2023,5 +2023,230 @@
     "explanation": "꿀벌(일벌)은 거친 피부에 침이 박혀 내장이 빠져나와 죽지만, 말벌이나 여왕벌은 침에 갈고리가 없어 여러 번 쏠 수 있어요. 모든 벌이 한 번만 쏘고 죽는다는 것은 꿀벌에만 해당되는 사실이랍니다.",
     "category": "science",
     "difficulty": "normal"
+  },
+  {
+    "id": "r0226",
+    "statement": "한국의 전통 음식 '냉면'은 원래 겨울에 먹던 음식이었다.",
+    "answer": true,
+    "correctRate": 0.33,
+    "explanation": "냉면은 본래 겨울철 온돌방에서 따뜻하게 지내며 차가운 음식을 즐기던 풍습에서 비롯된 음식이에요. 여름 음식으로 자리 잡은 것은 비교적 근대 이후의 일이랍니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0227",
+    "statement": "조선시대 왕은 경복궁에서만 거주하며 국정을 운영했다.",
+    "answer": false,
+    "correctRate": 0.73,
+    "explanation": "조선의 왕은 경복궁 외에도 창덕궁, 창경궁, 경희궁 등 여러 궁궐을 번갈아 사용했어요. 특히 임진왜란 이후에는 창덕궁이 실질적인 정궁 역할을 오랫동안 맡았답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0228",
+    "statement": "인간의 폐는 좌우 크기가 서로 다르다.",
+    "answer": true,
+    "correctRate": 0.69,
+    "explanation": "왼쪽 폐는 심장이 자리 잡을 공간을 확보하기 위해 오른쪽 폐보다 약간 작아요. 오른쪽 폐는 3개 엽, 왼쪽 폐는 2개 엽으로 이루어져 있답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0229",
+    "statement": "고구려의 시조 주몽(동명성왕)은 압록강 유역에서 나라를 세웠다.",
+    "answer": true,
+    "correctRate": 0.57,
+    "explanation": "고구려는 기원전 37년경 주몽이 압록강 중류 유역의 졸본 지방(현재 중국 환런 일대)에서 건국했다고 삼국사기에 기록되어 있어요.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0230",
+    "statement": "바나나는 나무가 아닌 풀(초본식물)에서 열린다.",
+    "answer": true,
+    "correctRate": 0.35,
+    "explanation": "바나나 줄기처럼 보이는 부분은 사실 잎자루가 겹쳐 형성된 '가짜 줄기'예요. 목질 조직이 없어 식물학적으로는 풀(초본식물)로 분류된답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0231",
+    "statement": "대한민국 헌법 제1조 1항은 '대한민국은 민주공화국이다'이다.",
+    "answer": true,
+    "correctRate": 0.26,
+    "explanation": "대한민국 헌법 제1조 제1항에는 '대한민국은 민주공화국이다'라고 명시되어 있어요. 헌법의 가장 첫 번째 조항으로 국가의 기본 성격을 선언하고 있답니다.",
+    "category": "common",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0232",
+    "statement": "한국의 전통 발효 음료 '막걸리'는 맥주보다 알코올 도수가 높다.",
+    "answer": false,
+    "correctRate": 0.54,
+    "explanation": "일반 막걸리의 알코올 도수는 6~8% 수준으로, 맥주(평균 4~5%)보다 약간 높거나 비슷한 정도예요. 하지만 '막걸리가 훨씬 높다'고 보기는 어렵고, 특히 생막걸리는 도수가 낮은 편이랍니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0233",
+    "statement": "조선시대 관복의 색깔은 관직의 품계에 따라 달랐다.",
+    "answer": true,
+    "correctRate": 0.49,
+    "explanation": "조선시대 관리의 관복 색은 품계에 따라 구분되었는데, 당상관(정3품 이상)은 붉은색(홍포), 당하관은 청색(청포), 낮은 품계는 초록색(녹포) 등을 착용했어요.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0234",
+    "statement": "사람의 혈액형은 ABO식 외에도 여러 종류의 분류 체계가 존재한다.",
+    "answer": true,
+    "correctRate": 0.48,
+    "explanation": "혈액형 분류 체계는 ABO식과 Rh식 외에도 MNS식, Lewis식 등 국제수혈학회에서 공인된 것만 40여 가지가 넘어요. 수혈 시에는 여러 분류 체계를 함께 고려하기도 한답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0235",
+    "statement": "한국의 전통 혼례에서 신랑은 초례청에서 동쪽, 신부는 서쪽에 선다.",
+    "answer": true,
+    "correctRate": 0.34,
+    "explanation": "전통 혼례에서 신랑은 동쪽(동방), 신부는 서쪽(서방)에 서는 것이 원칙이에요. 양(陽)을 상징하는 동쪽에 신랑, 음(陰)을 상징하는 서쪽에 신부가 위치하는 음양 원리를 따른 것이랍니다.",
+    "category": "culture",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0236",
+    "statement": "지구에서 달까지의 평균 거리는 약 38만 km다.",
+    "answer": true,
+    "correctRate": 0.7,
+    "explanation": "지구와 달 사이의 평균 거리는 약 384,400km예요. 달은 타원 궤도로 공전하기 때문에 가장 가까울 때(근지점)와 가장 멀 때(원지점)의 거리가 약 3만 km 이상 차이가 난답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0237",
+    "statement": "한국의 전통 음식 '떡볶이'는 원래 간장으로 조리한 음식이었다.",
+    "answer": true,
+    "correctRate": 0.26,
+    "explanation": "오늘날 고추장으로 버무린 빨간 떡볶이는 1950년대 이후에 등장했어요. 그 이전의 전통 떡볶이는 간장과 쇠고기 등을 넣어 볶은 '궁중 떡볶이' 형태였답니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0238",
+    "statement": "금성(Venus)은 태양계 행성 중 자전 속도가 가장 느리다.",
+    "answer": true,
+    "correctRate": 0.59,
+    "explanation": "금성의 하루(자전 주기)는 약 243지구일로 태양계 행성 중 가장 길어요. 심지어 금성의 하루가 금성의 1년(공전 주기 약 225지구일)보다 더 길다는 특이한 사실도 있답니다.",
+    "category": "science",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0239",
+    "statement": "한국의 '판소리'는 한 명의 소리꾼과 한 명의 고수(북 치는 사람)가 함께 공연하는 예술이다.",
+    "answer": true,
+    "correctRate": 0.27,
+    "explanation": "판소리는 소리꾼(창자) 한 명이 노래·말·몸짓으로 이야기를 전달하고, 고수 한 명이 북으로 장단을 맞추는 형식이에요. 이 두 사람의 호흡이 판소리의 핵심이랍니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0240",
+    "statement": "한반도에서 재배되는 배추는 원래 중국에서 전래된 채소다.",
+    "answer": true,
+    "correctRate": 0.29,
+    "explanation": "배추의 원산지는 중국으로, 한반도에는 고려 시대 이후 전래된 것으로 알려져 있어요. 오늘날 김치의 주재료가 된 배추는 19세기 이후 한국에 맞게 개량된 품종이랍니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0241",
+    "statement": "한국 전통 건축에서 처마 끝의 기와를 '막새기와'라고 부른다.",
+    "answer": true,
+    "correctRate": 0.66,
+    "explanation": "처마 끝을 마감하는 기와를 막새기와라고 해요. 수막새(원형 무늬가 있는 것)와 암막새(긴 형태)로 구분되며, 여기에 새긴 무늬로 건축 연대나 용도를 추정하기도 한답니다.",
+    "category": "culture",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0242",
+    "statement": "사람은 잠을 자는 동안에도 꿈을 매일 밤 꾼다.",
+    "answer": true,
+    "correctRate": 0.69,
+    "explanation": "수면 연구에 따르면 사람은 매일 밤 여러 번 꿈을 꾸지만, 대부분 깨어나면서 기억하지 못할 뿐이에요. 특히 REM(렘) 수면 단계에서 꿈을 가장 활발하게 꾼답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0243",
+    "statement": "한국의 전통 악기 '장구'는 양쪽 면의 소리가 서로 다르다.",
+    "answer": true,
+    "correctRate": 0.52,
+    "explanation": "장구는 채편(오른쪽, 말가죽)과 궁편(왼쪽, 쇠가죽)으로 구성돼 있어요. 채편은 높고 맑은 소리, 궁편은 낮고 울림이 깊은 소리를 내어 두 소리가 조화를 이루는 것이 특징이랍니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0244",
+    "statement": "조선시대 한양의 4대문 중 북문(北門)에 해당하는 문은 숙정문이다.",
+    "answer": true,
+    "correctRate": 0.29,
+    "explanation": "한양 도성의 4대문은 동대문(흥인지문), 서대문(돈의문), 남대문(숭례문), 북문(숙정문)이에요. 숙정문은 지대가 높고 험해 평소에는 거의 닫아두었다고 전해진답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0245",
+    "statement": "코끼리는 유일하게 점프를 할 수 없는 포유류다.",
+    "answer": false,
+    "correctRate": 0.44,
+    "explanation": "코끼리가 점프를 못 하는 것은 사실이지만, 점프를 못 하는 포유류는 코끼리만이 아니에요. 하마, 코뿔소 등도 사실상 네 발이 동시에 땅에서 떨어지는 점프를 하지 못한답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0246",
+    "statement": "한국의 전통 염색 기법 '쪽빛(인디고)' 염색은 쪽 식물 잎에서 색소를 추출해 만든다.",
+    "answer": true,
+    "correctRate": 0.62,
+    "explanation": "쪽빛 염색은 마디풀과에 속하는 쪽(蓼藍) 식물의 잎을 발효시켜 색소를 추출한 뒤 천에 물들이는 전통 기법이에요. 깊고 청아한 남색이 특징으로 우리 전통 복식에 널리 쓰였답니다.",
+    "category": "culture",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0247",
+    "statement": "세계에서 가장 큰 사막은 사하라 사막이다.",
+    "answer": false,
+    "correctRate": 0.4,
+    "explanation": "세계에서 가장 큰 사막은 남극 대륙이에요. 사막은 강수량이 매우 적은 지역을 의미하는데, 남극은 연간 강수량(강설량 포함)이 극히 적어 세계 최대 사막으로 분류된답니다. 사하라는 열대·온대 사막 중 가장 크답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0248",
+    "statement": "한국의 '서울'이라는 지명은 신라의 수도를 뜻하는 '서라벌'에서 유래했다는 설이 있다.",
+    "answer": true,
+    "correctRate": 0.32,
+    "explanation": "'서울'의 어원에 대해서는 여러 설이 있는데, 그 중 신라의 수도를 가리키던 '서라벌(徐羅伐)'이 변화해 수도를 뜻하는 보통명사 '서울'이 됐다는 설이 유력하게 받아들여지고 있어요.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0249",
+    "statement": "한국 프로야구에서 처음 지명타자(DH) 제도를 도입한 것은 미국 메이저리그보다 늦었다.",
+    "answer": true,
+    "correctRate": 0.29,
+    "explanation": "미국 아메리칸리그는 1973년에 지명타자 제도를 도입했어요. 한국 프로야구(KBO)는 1982년 창설 때부터 지명타자 제도를 채택했으니 약 9년 늦게 도입한 셈이랍니다.",
+    "category": "sports",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0250",
+    "statement": "조선시대에는 한글(훈민정음)이 창제된 이후에도 공식 문서는 계속 한문으로 작성됐다.",
+    "answer": true,
+    "correctRate": 0.68,
+    "explanation": "세종대왕이 훈민정음을 창제(1443년)한 이후에도 과거 시험, 외교 문서, 법전 등 공식 문서는 대부분 한문으로 작성됐어요. 한글이 공문서에 본격적으로 활용된 것은 1894년 갑오개혁 이후랍니다.",
+    "category": "history",
+    "difficulty": "normal"
   }
 ]
