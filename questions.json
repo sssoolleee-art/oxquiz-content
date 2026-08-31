@@ -2248,5 +2248,230 @@
     "explanation": "세종대왕이 훈민정음을 창제(1443년)한 이후에도 과거 시험, 외교 문서, 법전 등 공식 문서는 대부분 한문으로 작성됐어요. 한글이 공문서에 본격적으로 활용된 것은 1894년 갑오개혁 이후랍니다.",
     "category": "history",
     "difficulty": "normal"
+  },
+  {
+    "id": "r0251",
+    "statement": "고려시대 무신정변(1170년)은 문신들의 차별에 반발한 무신들이 일으킨 쿠데타다.",
+    "answer": true,
+    "correctRate": 0.53,
+    "explanation": "1170년 정중부 등 무신들이 문신 중심의 차별적 대우에 반발해 쿠데타를 일으켰어요. 이후 약 100년간 무신정권 시대가 이어졌답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0252",
+    "statement": "한국의 전통 음식 '삼겹살'은 조선시대 이전부터 구워 먹던 음식이다.",
+    "answer": false,
+    "correctRate": 0.75,
+    "explanation": "삼겹살을 불에 직접 구워 먹는 방식은 20세기 이후에 정착된 비교적 근대적인 식문화예요. 조선시대 문헌에는 삼겹살을 구워 먹는 기록이 없답니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0253",
+    "statement": "사람의 귀는 평생 동안 계속 자란다.",
+    "answer": true,
+    "correctRate": 0.68,
+    "explanation": "귀는 연골로 이루어져 있어 나이가 들수록 중력과 피부 탄력 저하로 인해 실제로 조금씩 커져요. 코도 같은 이유로 평생 자란답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0254",
+    "statement": "조선시대 '의궤'는 왕실의 중요 행사를 그림과 글로 기록한 문서다.",
+    "answer": true,
+    "correctRate": 0.28,
+    "explanation": "의궤는 왕실 혼례, 장례, 연회 등 중요 행사를 사진처럼 세밀한 그림과 글로 남긴 기록물이에요. 유네스코 세계기록유산에도 등재되어 있답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0255",
+    "statement": "호랑이는 수영을 매우 잘하며 물을 즐긴다.",
+    "answer": true,
+    "correctRate": 0.4,
+    "explanation": "호랑이는 고양잇과 동물 중 물을 즐기는 편으로, 강이나 호수를 헤엄쳐 건너기도 해요. 더운 날씨에 체온 조절을 위해 물에 들어가는 습성도 있답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0256",
+    "statement": "한국의 전통 음식 '곰탕'과 '설렁탕'은 사용하는 부위와 조리법이 완전히 같다.",
+    "answer": false,
+    "correctRate": 0.58,
+    "explanation": "곰탕은 고기와 내장을 주로 넣고 푹 끓인 것이고, 설렁탕은 뼈와 사골을 우려낸 것이에요. 재료와 조리 방식에 차이가 있답니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0257",
+    "statement": "지구상에서 가장 빠른 육상동물인 치타는 장거리 달리기에서는 말보다 느리다.",
+    "answer": true,
+    "correctRate": 0.33,
+    "explanation": "치타는 최고 시속 110km에 달하지만 단거리(200~300m)에서만 유지 가능해요. 장거리에서는 지구력이 뛰어난 말이 훨씬 앞선답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0258",
+    "statement": "조선시대 '경복궁'의 '경복(景福)'은 '큰 복을 누린다'는 뜻이다.",
+    "answer": true,
+    "correctRate": 0.65,
+    "explanation": "'경복'은 시경(詩經)의 '군자만년 개이경복(君子萬年 介爾景福)'에서 따온 말로 '큰 복을 누린다'는 뜻이에요. 정도전이 이름을 지었답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0259",
+    "statement": "한국의 전통 명주(名酒) '안동소주'는 증류식 소주로 막걸리보다 알코올 도수가 높다.",
+    "answer": true,
+    "correctRate": 0.51,
+    "explanation": "안동소주는 발효주를 증류해 만드는 증류식 소주로 도수가 보통 45도 전후예요. 막걸리(6~8도)보다 훨씬 높답니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0260",
+    "statement": "한국 최초의 올림픽 금메달은 1976년 몬트리올 올림픽에서 나왔다.",
+    "answer": true,
+    "correctRate": 0.43,
+    "explanation": "1976년 몬트리올 올림픽 레슬링 자유형 62kg급에서 양정모 선수가 한국 최초의 올림픽 금메달을 획득했어요.",
+    "category": "sports",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0261",
+    "statement": "사람이 하품을 하는 주된 이유는 산소가 부족해서다.",
+    "answer": false,
+    "correctRate": 0.26,
+    "explanation": "하품은 산소 부족 때문이라는 것이 오랜 통설이었지만, 연구에 따르면 뇌의 온도 조절이나 각성 상태 유지와 더 관련 있는 것으로 밝혀졌어요.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0262",
+    "statement": "고려시대 '고려청자'의 독창적인 상감기법은 중국에 없던 고려만의 기술이다.",
+    "answer": true,
+    "correctRate": 0.64,
+    "explanation": "상감청자 기법은 도자기 표면에 무늬를 새기고 다른 색 흙을 메워 넣는 방식으로, 중국에는 없던 고려 도공들이 독창적으로 발전시킨 기술이에요.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0263",
+    "statement": "한국의 '서울'은 세계에서 지하철 노선이 가장 긴 도시 중 하나다.",
+    "answer": true,
+    "correctRate": 0.34,
+    "explanation": "서울 지하철은 총 연장 길이 기준으로 세계 상위권에 속해요. 런던, 뉴욕, 베이징 등과 함께 세계 최대 규모의 지하철 시스템을 갖추고 있답니다.",
+    "category": "common",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0264",
+    "statement": "음식을 먹은 직후 바로 수영하면 위경련이 반드시 일어난다.",
+    "answer": false,
+    "correctRate": 0.67,
+    "explanation": "식후 수영이 위경련을 일으킨다는 주장은 과학적으로 검증되지 않은 속설이에요. 소화에 다소 지장을 줄 수 있지만 '반드시' 위경련이 생기지는 않는답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0265",
+    "statement": "한국의 전통 악기 '가야금'은 신라 가야국의 악기에서 유래했다.",
+    "answer": true,
+    "correctRate": 0.56,
+    "explanation": "가야금은 가야국의 가실왕이 만들었다는 기록이 삼국사기에 있어요. 이후 신라의 악사 우륵이 가야금 음악을 신라에 전했답니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0266",
+    "statement": "달걀 껍데기의 색깔(흰색, 갈색)은 영양 성분의 차이를 나타낸다.",
+    "answer": false,
+    "correctRate": 0.27,
+    "explanation": "달걀 껍데기 색은 닭의 품종에 따라 결정될 뿐이에요. 흰 달걀과 갈색 달걀의 영양 성분은 사실상 동일하답니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0267",
+    "statement": "한국의 '태극기'에서 건(乾)·곤(坤)·감(坎)·리(離) 4괘의 배치는 주역의 원래 배치와 다르다.",
+    "answer": true,
+    "correctRate": 0.62,
+    "explanation": "태극기의 4괘 배치는 주역의 원래 후천팔괘와는 달리 박영효가 독자적으로 배열한 것이에요. 학자들 사이에서도 배치 의미에 대한 논의가 있답니다.",
+    "category": "korean",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0268",
+    "statement": "조선시대 '서원'은 원칙적으로 국가에서 설립하고 운영한 교육기관이다.",
+    "answer": false,
+    "correctRate": 0.43,
+    "explanation": "서원은 사림(士林) 사대부들이 사적으로 세운 교육기관이에요. 국가가 설립한 공교육기관은 성균관이나 향교였답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0269",
+    "statement": "사람의 손톱과 발톱은 죽은 후에도 계속 자란다.",
+    "answer": false,
+    "correctRate": 0.7,
+    "explanation": "사망 후 손발톱이 자란다는 것은 오해예요. 실제로는 사망 후 피부가 건조해지고 수축하면서 손발톱이 더 길어 보이는 착시 현상이랍니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0270",
+    "statement": "한국의 '부산'은 경상남도에 속하는 도시다.",
+    "answer": false,
+    "correctRate": 0.6,
+    "explanation": "부산은 1963년 직할시로, 1995년 광역시로 독립해 현재는 경상남도에 속하지 않는 광역시예요. 행정구역상 독립된 지방자치단체랍니다.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0271",
+    "statement": "조선시대 왕의 초상화를 '어진(御眞)'이라고 불렀다.",
+    "answer": true,
+    "correctRate": 0.59,
+    "explanation": "왕의 초상화는 '어진'이라 불렸어요. 현재까지 전해지는 조선 왕의 어진은 태조, 영조, 철종, 고종 등 소수만 남아 있답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0272",
+    "statement": "커피를 마시면 잠이 깨는 이유는 카페인이 뇌에서 수면 유도 물질(아데노신)의 작용을 방해하기 때문이다.",
+    "answer": true,
+    "correctRate": 0.71,
+    "explanation": "카페인은 졸음을 유발하는 아데노신이 수용체에 결합하는 것을 방해해요. 그 결과 졸음이 억제되고 각성 상태가 유지된답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0273",
+    "statement": "한국의 전통 놀이 '바둑'의 발상지는 한국이다.",
+    "answer": false,
+    "correctRate": 0.34,
+    "explanation": "바둑의 발상지는 중국으로, 약 4000년 전부터 중국에서 시작된 것으로 알려져 있어요. 한국에는 삼국시대에 전래되었답니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0274",
+    "statement": "세계에서 가장 많이 사용되는 언어는 영어다.",
+    "answer": false,
+    "correctRate": 0.26,
+    "explanation": "모국어 사용자 수 기준으로는 중국어(만다린)가 가장 많아요. 영어는 제2언어 포함 시 전체 화자 수에서 앞서지만 모국어 화자 수는 중국어가 훨씬 많답니다.",
+    "category": "common",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0275",
+    "statement": "한국의 '막걸리'는 유산균이 들어 있어 장 건강에 도움을 줄 수 있다.",
+    "answer": true,
+    "correctRate": 0.71,
+    "explanation": "막걸리는 발효 과정에서 유산균이 생성돼요. 생막걸리에는 살아 있는 유산균이 상당수 포함되어 있어 장 건강에 긍정적 영향을 줄 수 있답니다.",
+    "category": "food",
+    "difficulty": "normal"
   }
 ]
