@@ -2473,5 +2473,230 @@
     "explanation": "막걸리는 발효 과정에서 유산균이 생성돼요. 생막걸리에는 살아 있는 유산균이 상당수 포함되어 있어 장 건강에 긍정적 영향을 줄 수 있답니다.",
     "category": "food",
     "difficulty": "normal"
+  },
+  {
+    "id": "r0276",
+    "statement": "한국의 전통 음식 '김밥'은 일제강점기 이전부터 존재했던 음식이다.",
+    "answer": false,
+    "correctRate": 0.38,
+    "explanation": "김밥은 일제강점기에 일본의 '노리마키'가 전래되며 한국화된 음식으로, 조선시대 문헌에는 등장하지 않아요. 현재와 같은 형태의 김밥은 20세기 이후에 본격적으로 자리잡았답니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0277",
+    "statement": "한국의 전통 악기 '거문고'는 가야국에서 만들어진 악기다.",
+    "answer": false,
+    "correctRate": 0.73,
+    "explanation": "거문고는 고구려에서 만들어진 악기예요. 고구려의 왕산악이 중국의 칠현금을 개량해 만들었다고 전해지며, 가야에서 유래한 악기는 가야금이랍니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0278",
+    "statement": "사람의 심장은 일생 동안 멈추지 않고 뛰며, 평균적으로 하루에 약 10만 번 박동한다.",
+    "answer": true,
+    "correctRate": 0.55,
+    "explanation": "성인의 심장은 분당 약 60~100회 박동하므로 하루에 약 8만 6천~14만 4천 번 뛰어요. 평균적으로 약 10만 번이라는 수치가 널리 인정되고 있답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0279",
+    "statement": "조선시대 '장희빈(희빈 장씨)'은 정식으로 왕비 자리에 오른 적이 있다.",
+    "answer": true,
+    "correctRate": 0.28,
+    "explanation": "장희빈은 숙종의 총애를 받아 1689년 인현왕후가 폐위된 후 정식으로 왕비 자리에 올랐어요. 이후 인현왕후가 복위되면서 다시 희빈으로 강등됐고, 결국 사사됐답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0280",
+    "statement": "북한에도 설날과 추석을 공식 명절로 지정해 쉰다.",
+    "answer": true,
+    "correctRate": 0.38,
+    "explanation": "북한은 1988년부터 음력 설날과 추석을 공식 명절로 복원했어요. 과거 사회주의 체제 초기에는 민속 명절을 억제했지만, 이후 민족 전통을 강조하는 방향으로 정책을 바꿨답니다.",
+    "category": "common",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0281",
+    "statement": "한국의 전통 혼례에서 신랑이 신부 집에 기러기를 가져가는 것은 기러기가 한번 짝을 맺으면 평생 바꾸지 않기 때문이다.",
+    "answer": true,
+    "correctRate": 0.39,
+    "explanation": "전통 혼례의 '전안례'에서 신랑이 나무 기러기를 가져가는 풍습은 기러기가 한 번 짝을 맺으면 상대가 죽어도 다른 짝을 찾지 않는다는 믿음에서 유래했어요. 부부의 변함없는 사랑을 기원하는 의식이랍니다.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0282",
+    "statement": "인간은 오감(시각·청각·후각·미각·촉각) 외에 통증을 느끼는 감각도 별개의 감각으로 분류된다.",
+    "answer": true,
+    "correctRate": 0.58,
+    "explanation": "현대 신경과학에서는 통각(nociception), 평형감각, 고유감각(몸의 위치를 느끼는 감각) 등을 기존 오감과 별개의 감각으로 분류해요. 인간의 감각은 최소 9가지 이상으로 보는 것이 학계의 일반적인 견해랍니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0283",
+    "statement": "조선시대 '삼정(三政)'은 전정·군정·환정을 가리키며, 삼정의 문란은 조선 후기 농민 봉기의 주요 원인이었다.",
+    "answer": true,
+    "correctRate": 0.71,
+    "explanation": "삼정이란 토지세(전정), 군역(군정), 환곡(환정) 제도를 말해요. 조선 후기에 이 세 가지 제도가 부패·문란해지면서 농민들의 부담이 극심해졌고, 1862년 임술농민봉기 등의 직접적 원인이 됐답니다.",
+    "category": "history",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0284",
+    "statement": "소금은 전기를 전혀 통하지 않는 절연체다.",
+    "answer": false,
+    "correctRate": 0.71,
+    "explanation": "소금(염화나트륨)은 고체 상태에서는 전기를 통하지 않지만, 물에 녹거나 액체 상태가 되면 나트륨 이온과 염소 이온으로 분리되어 전기를 잘 통해요. 전해질의 대표적인 예랍니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0285",
+    "statement": "한국의 전통 민화 '까치 호랑이'에서 까치는 나쁜 소식을 전하는 불길한 새를 상징한다.",
+    "answer": false,
+    "correctRate": 0.4,
+    "explanation": "민화 속 까치는 반대로 길조(吉鳥)이자 좋은 소식을 전하는 새를 상징해요. '까치가 울면 반가운 손님이 온다'는 속담처럼 한국 전통에서 까치는 기쁜 일을 알리는 새로 여겨졌답니다.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0286",
+    "statement": "지구에서 가장 깊은 곳인 마리아나 해구는 에베레스트산보다 깊다.",
+    "answer": true,
+    "correctRate": 0.49,
+    "explanation": "마리아나 해구의 최심부인 챌린저 딥은 약 11,000m 깊이예요. 에베레스트산의 높이가 약 8,849m이므로, 마리아나 해구가 약 2,000m 이상 더 깊답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0287",
+    "statement": "조선시대에 신분이 낮은 백정도 과거 시험에 응시할 수 있었다.",
+    "answer": false,
+    "correctRate": 0.37,
+    "explanation": "조선시대 과거 시험은 원칙적으로 양인(良人) 이상만 응시할 수 있었어요. 백정은 천민 신분으로 과거 응시 자격이 없었으며, 서얼(양반의 서자)도 문과 응시에 제한을 받았답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0288",
+    "statement": "물은 섭씨 100도에서 항상 끓는다.",
+    "answer": false,
+    "correctRate": 0.46,
+    "explanation": "물의 끓는점은 기압에 따라 달라져요. 해수면(1기압)에서는 100°C에 끓지만, 고도가 높아 기압이 낮은 산 정상에서는 약 90°C 안팎에서도 끓는답니다. 반대로 압력이 높으면 끓는점이 올라가요.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0289",
+    "statement": "한국의 '아리랑'은 유네스코 인류무형문화유산에 등재되어 있다.",
+    "answer": true,
+    "correctRate": 0.57,
+    "explanation": "한국의 '아리랑, 한국의 서정민요'는 2012년 유네스코 인류무형문화유산에 등재됐어요. 아리랑은 지역마다 다양한 변형이 존재하며, 한국인의 정서를 대표하는 노래로 인정받았답니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0290",
+    "statement": "초콜릿의 원료인 카카오 열매는 나무 줄기에서 직접 열린다.",
+    "answer": true,
+    "correctRate": 0.38,
+    "explanation": "카카오나무는 '줄기열매식물(cauliflory)'로, 열매가 잎이 달린 가지가 아닌 나무 줄기와 굵은 가지에 직접 붙어 열려요. 이 독특한 특성 덕분에 손으로 직접 따서 수확한답니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0291",
+    "statement": "한국 최초의 올림픽 참가는 1948년 런던 올림픽이다.",
+    "answer": true,
+    "correctRate": 0.64,
+    "explanation": "대한민국은 1948년 런던 하계 올림픽에 처음으로 'KOREA' 명칭으로 독립 국가 자격을 갖춰 참가했어요. 이전 일제강점기에는 일본 선수단 소속으로 참가한 사례가 있었지만 독립 국가로서의 첫 참가는 1948년이랍니다.",
+    "category": "sports",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0292",
+    "statement": "한국의 전통 음식 '순대'는 돼지 창자를 사용하지 않고 만들 수 있다.",
+    "answer": true,
+    "correctRate": 0.25,
+    "explanation": "전통 순대는 돼지 창자에 소를 채워 만드는 것이 일반적이지만, 강원도의 '오징어 순대'처럼 오징어 몸통을 껍질로 사용하는 지역 변형도 있어요. 꼭 돼지 창자만 써야 하는 것은 아니랍니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0293",
+    "statement": "사람의 혀에 있는 미뢰(맛봉오리)는 성인이 되면 더 이상 재생되지 않는다.",
+    "answer": false,
+    "correctRate": 0.51,
+    "explanation": "미뢰 세포는 약 10~14일 주기로 새로 교체돼요. 덕분에 뜨거운 음식으로 혀를 데거나 손상돼도 어느 정도 회복이 가능하답니다. 다만 나이가 들면서 미뢰의 수가 점차 줄어들어 미각이 둔해질 수 있어요.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0294",
+    "statement": "조선시대 왕세자는 성균관에서 다른 유생들과 함께 공부했다.",
+    "answer": false,
+    "correctRate": 0.71,
+    "explanation": "왕세자는 성균관이 아닌 '세자시강원'이라는 별도의 교육 기관에서 교육받았어요. 세자시강원에서는 학문이 뛰어난 신하들이 세자를 전담하여 가르쳤답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0295",
+    "statement": "알코올(에탄올)은 체온을 높이는 효과가 있다.",
+    "answer": false,
+    "correctRate": 0.57,
+    "explanation": "알코올을 마시면 일시적으로 혈관이 확장되어 따뜻함을 느끼지만, 실제로는 피부를 통한 열 손실이 증가해 체온이 떨어져요. 추운 날 술을 마시면 오히려 저체온증 위험이 높아진답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0296",
+    "statement": "한국 전통 음악의 장단 중 '세마치장단'은 3박자 계열이다.",
+    "answer": true,
+    "correctRate": 0.37,
+    "explanation": "세마치장단은 3소박 3박, 즉 9박 구조로 이루어진 3박자 계열 장단이에요. '세마치'라는 이름 자체가 '셋을 맞춘다'는 의미에서 유래했으며, 민요나 무속음악 등에 널리 쓰인답니다.",
+    "category": "culture",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0297",
+    "statement": "한국의 전통 건축에서 '단청'은 건물을 아름답게 꾸미는 역할만 한다.",
+    "answer": false,
+    "correctRate": 0.33,
+    "explanation": "단청은 미적 장식 외에도 목재를 벌레와 부식으로부터 보호하는 실용적인 역할도 해요. 단청에 사용된 안료와 아교 성분이 방충·방습 효과를 내어 목조 건물의 수명을 연장시켜 준답니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0298",
+    "statement": "한국 최초의 신문 '한성순보'는 한글로 발행됐다.",
+    "answer": false,
+    "correctRate": 0.45,
+    "explanation": "1883년 창간된 한성순보는 순 한문으로 발행된 우리나라 최초의 근대 신문이에요. 이후 1886년 창간된 '한성주보'가 한문과 국한문 혼용으로 발행되었으며, 본격적인 한글 신문은 1896년의 '독립신문'이랍니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0299",
+    "statement": "개는 인간과 달리 땀샘이 전혀 없다.",
+    "answer": false,
+    "correctRate": 0.39,
+    "explanation": "개도 땀샘이 있어요. 다만 발바닥에만 에크린 땀샘이 있어 그곳으로만 땀을 흘리고, 체온 조절은 주로 헐떡거림(혀를 내밀고 호흡)을 통해 이루어진답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0300",
+    "statement": "조선시대 '수원 화성'은 정조가 아버지 사도세자의 무덤을 옮기면서 함께 건설한 성이다.",
+    "answer": true,
+    "correctRate": 0.44,
+    "explanation": "정조는 아버지 사도세자(장조)의 묘를 수원 화산으로 이장하고, 그 인근에 화성을 축조했어요. 화성은 정약용이 설계에 참여하고 거중기 등 신기술을 활용해 건설됐으며, 현재 유네스코 세계문화유산으로 등재되어 있답니다.",
+    "category": "history",
+    "difficulty": "normal"
   }
 ]
