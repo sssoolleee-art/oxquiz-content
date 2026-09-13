@@ -2698,5 +2698,230 @@
     "explanation": "정조는 아버지 사도세자(장조)의 묘를 수원 화산으로 이장하고, 그 인근에 화성을 축조했어요. 화성은 정약용이 설계에 참여하고 거중기 등 신기술을 활용해 건설됐으며, 현재 유네스코 세계문화유산으로 등재되어 있답니다.",
     "category": "history",
     "difficulty": "normal"
+  },
+  {
+    "id": "r0301",
+    "statement": "한반도에서 된장과 간장은 원래 같은 재료(메주)에서 함께 만들어진다.",
+    "answer": true,
+    "correctRate": 0.35,
+    "explanation": "된장과 간장은 모두 콩으로 만든 메주를 소금물에 담가 숙성시킨 뒤 분리해서 얻는 발효식품이에요. 같은 항아리에서 나온다는 점이 의외로 잘 알려져 있지 않아요.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0302",
+    "statement": "한국의 전통 악기 '대금'은 세로로 불어 소리를 내는 악기다.",
+    "answer": false,
+    "correctRate": 0.6,
+    "explanation": "대금은 가로(횡)로 들어 옆으로 불어 소리를 내는 횡적(橫笛)이에요. 세로로 부는 악기는 단소나 소금 같은 종적(縱笛)에 해당돼요.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0303",
+    "statement": "조선시대 왕의 능(陵)은 한양 도성 밖 100리(약 40km) 이내에만 조성할 수 있었다.",
+    "answer": true,
+    "correctRate": 0.71,
+    "explanation": "조선 왕릉 조성 원칙에 따라 능은 도성에서 너무 멀지도 가깝지도 않은 100리 이내에 두어야 했어요. 덕분에 수도권에 왕릉이 밀집해 있으며, 조선 왕릉 전체가 유네스코 세계유산에 등재돼 있어요.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0304",
+    "statement": "번개가 치고 천둥이 들릴 때까지의 시간 차이는 빛보다 소리가 느리기 때문에 생긴다.",
+    "answer": true,
+    "correctRate": 0.37,
+    "explanation": "빛의 속도는 약 30만 km/s인 반면 소리의 속도는 약 340 m/s로 훨씬 느려요. 그래서 번개는 거의 동시에 보이지만 천둥 소리는 한참 뒤에 들리게 돼요.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0305",
+    "statement": "한국의 전통 음식 '전주비빔밥'에서 고명으로 올리는 육회는 원래 돼지고기를 사용했다.",
+    "answer": false,
+    "correctRate": 0.44,
+    "explanation": "전주비빔밥의 육회는 전통적으로 소고기를 사용해요. 전주 지역은 예로부터 소고기를 귀하게 여기고 즐겨 먹는 음식 문화가 있었어요.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0306",
+    "statement": "삼국시대 신라는 백제와 고구려를 멸망시킨 후 당나라 세력까지 한반도에서 몰아냈다.",
+    "answer": true,
+    "correctRate": 0.37,
+    "explanation": "신라는 660년 백제, 668년 고구려를 멸망시킨 뒤 한반도 지배를 노리던 당나라군을 나당전쟁(670~676년)을 통해 몰아내고 삼국을 통일했어요.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0307",
+    "statement": "문어는 뼈가 전혀 없는 연체동물이다.",
+    "answer": true,
+    "correctRate": 0.54,
+    "explanation": "문어는 연체동물문 두족강에 속하며 뼈가 없어요. 딱딱한 부분은 입 안의 '부리(악판)'뿐이에요. 덕분에 몸을 매우 좁은 틈새로도 통과시킬 수 있어요.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0308",
+    "statement": "한국의 '단오' 명절은 음력 5월 5일로, 예로부터 수릿날이라고도 불렸다.",
+    "answer": true,
+    "correctRate": 0.65,
+    "explanation": "단오는 음력 5월 5일이며 '수릿날'이라는 별칭이 있어요. 이날 수레바퀴 모양의 수리취떡을 먹는 풍습이 있었고, 그네뛰기·씨름 등 다양한 세시풍속이 행해졌어요.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0309",
+    "statement": "사람의 눈물은 감정에 따라 성분이 달라진다.",
+    "answer": true,
+    "correctRate": 0.62,
+    "explanation": "기쁠 때, 슬플 때, 눈에 먼지가 들어갔을 때 흘리는 눈물은 각각 단백질과 호르몬 구성 비율이 다르다는 연구 결과가 있어요. 감정적 눈물에는 스트레스 호르몬이 더 많이 포함돼 있어요.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0310",
+    "statement": "조선시대 암행어사는 왕이 직접 임명했으며, 파견 사실을 해당 지역 관리에게 미리 알렸다.",
+    "answer": false,
+    "correctRate": 0.72,
+    "explanation": "암행어사는 왕이 비밀리에 임명하고 파견 사실을 철저히 숨기는 것이 핵심이었어요. 해당 지역 관리에게 알리면 의미가 없으므로 극비로 운영됐어요.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0311",
+    "statement": "태양은 지구에서 빛이 도달하는 데 약 8분 20초가 걸릴 만큼 멀리 떨어져 있다.",
+    "answer": true,
+    "correctRate": 0.7,
+    "explanation": "태양과 지구의 평균 거리는 약 1억 5천만 km이고, 빛의 속도로 이동하면 약 8분 20초가 걸려요. 즉 우리가 보는 태양 빛은 약 8분 전에 출발한 빛이에요.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0312",
+    "statement": "고려시대 수도는 현재의 북한 개성(개경) 지역에 있었다.",
+    "answer": true,
+    "correctRate": 0.3,
+    "explanation": "고려의 수도 개경(開京)은 현재 북한의 개성시 일대에 해당해요. 고려는 918년 건국부터 1392년 멸망까지 개경을 수도로 삼았어요.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0313",
+    "statement": "한국의 전통 색 중 '오방색'은 빨강·파랑·노랑·흰색·검정 다섯 가지다.",
+    "answer": true,
+    "correctRate": 0.31,
+    "explanation": "오방색(五方色)은 동(청)·서(백)·남(적)·북(흑)·중앙(황)을 상징하는 다섯 색이에요. 한복, 단청, 태극기 등 한국 전통문화 곳곳에 활용돼 왔어요.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0314",
+    "statement": "한국의 전통 의례에서 제사 음식을 차릴 때 생선은 동쪽, 육류는 서쪽에 놓는 것이 원칙이다.",
+    "answer": true,
+    "correctRate": 0.6,
+    "explanation": "제사 진설법에서 '어동육서(魚東肉西)'라 하여 생선은 동쪽, 육류는 서쪽에 배치하는 원칙이 있어요. 지역과 가문에 따라 차이가 있지만 일반적으로 통용되는 규칙이에요.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0315",
+    "statement": "돼지는 실제로 매우 청결한 동물로, 공간이 주어지면 배변 장소와 생활 공간을 구분한다.",
+    "answer": true,
+    "correctRate": 0.62,
+    "explanation": "돼지는 공간이 충분하면 잠자리와 배변 장소를 철저히 분리하는 습성이 있어요. '돼지같다'는 표현과 달리 지능도 높고 청결을 선호하는 동물이에요.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0316",
+    "statement": "한국의 전통 발효식품 '청국장'과 일본의 '낫토'는 완전히 동일한 식품이다.",
+    "answer": false,
+    "correctRate": 0.37,
+    "explanation": "청국장과 낫토는 모두 콩을 발효시킨 식품이지만 발효균과 발효 방식, 맛과 향이 달라요. 낫토는 납두균(Bacillus subtilis var. natto)을 이용해 짧게 발효시키고 실처럼 늘어나는 특징이 있어요.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0317",
+    "statement": "서울 경복궁의 정문은 '광화문'이고, 후문(북문)은 '신무문'이다.",
+    "answer": true,
+    "correctRate": 0.37,
+    "explanation": "경복궁의 4대 문은 남쪽 광화문, 북쪽 신무문, 동쪽 건춘문, 서쪽 영추문이에요. 신무문은 주로 군사적 목적에 사용됐으며 평상시에는 굳게 닫혀 있었어요.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0318",
+    "statement": "조선시대 한양 4대문 중 '흥인지문(동대문)'만 유일하게 이름이 네 글자다.",
+    "answer": true,
+    "correctRate": 0.25,
+    "explanation": "서울 4대문은 숭례문(남), 흥인지문(동), 돈의문(서), 숙정문(북)인데, 흥인지문만 4자예요. 동쪽의 지기(地氣)가 약해 '지(之)'자를 추가해 기운을 보강했다는 이야기가 전해져요.",
+    "category": "korean",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0319",
+    "statement": "한국의 전통 음식 '식혜'는 차갑게 마셔야 하며 따뜻하게 마시는 전통은 없었다.",
+    "answer": false,
+    "correctRate": 0.66,
+    "explanation": "식혜는 원래 따뜻하게도 즐겼던 음료예요. 특히 겨울철에 따뜻한 식혜를 마시는 풍습이 있었고, 오늘날 냉음료 형태로 마시는 것은 근현대 이후 정착된 방식이에요.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0320",
+    "statement": "현재 사용하는 '한강'이라는 이름은 조선시대 이전부터 쓰였다.",
+    "answer": true,
+    "correctRate": 0.29,
+    "explanation": "'한강(漢江)'이라는 명칭은 삼국시대 문헌에도 등장하며 매우 오래된 지명이에요. 다만 시대와 문화에 따라 아리수, 욱리하 등 다양한 이름으로도 불렸어요.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0321",
+    "statement": "지구의 내핵(inner core)은 액체 상태로 이루어져 있다.",
+    "answer": false,
+    "correctRate": 0.45,
+    "explanation": "지구의 내핵은 엄청난 압력 때문에 높은 온도에도 불구하고 고체 상태를 유지하고 있어요. 액체 상태인 것은 내핵을 둘러싼 외핵(outer core)이에요.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0322",
+    "statement": "한국의 전통 놀이 '윷놀이'에서 '모'는 윷가락 4개가 모두 뒤집어진 상태다.",
+    "answer": true,
+    "correctRate": 0.33,
+    "explanation": "윷놀이에서 '모'는 윷가락 4개의 등(평평한 면)이 모두 위를 향한 상태로, 5칸을 이동할 수 있는 가장 좋은 패예요. 4개가 모두 배(둥근 면)가 위인 상태는 '윷'이에요.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0323",
+    "statement": "세계 최초의 헌법은 미국 헌법(1787년)이다.",
+    "answer": false,
+    "correctRate": 0.43,
+    "explanation": "1788년 발효된 미국 헌법이 유명하지만, 성문 헌법의 효시로는 1215년 영국 마그나 카르타나 1755년 코르시카 헌법 등을 꼽는 견해도 있어요. 학술적으로 '최초' 여부는 정의에 따라 달라질 수 있어요.",
+    "category": "common",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0324",
+    "statement": "한국의 전통 혼례에서 신랑이 신부에게 보내는 함(函)은 신부 집에서 받기를 거부하며 흥정하는 풍습이 있었다.",
+    "answer": true,
+    "correctRate": 0.4,
+    "explanation": "함진아비가 신부 집에 함을 전달할 때, 신부 집에서는 일부러 문을 닫고 돈이나 음식을 받은 뒤에야 들어오게 하는 흥정 풍습이 있었어요. 이는 기쁨을 높이는 의례적 절차였어요.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0325",
+    "statement": "사람의 체온은 하루 중 항상 일정하게 유지된다.",
+    "answer": false,
+    "correctRate": 0.33,
+    "explanation": "사람의 체온은 하루 중 변화하는데, 이른 아침(새벽)에 가장 낮고 오후 4~6시경에 가장 높아요. 일주기 리듬(서카디안 리듬)에 따라 약 0.5~1도 정도 변동이 있어요.",
+    "category": "science",
+    "difficulty": "normal"
   }
 ]
