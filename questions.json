@@ -2923,5 +2923,230 @@
     "explanation": "사람의 체온은 하루 중 변화하는데, 이른 아침(새벽)에 가장 낮고 오후 4~6시경에 가장 높아요. 일주기 리듬(서카디안 리듬)에 따라 약 0.5~1도 정도 변동이 있어요.",
     "category": "science",
     "difficulty": "normal"
+  },
+  {
+    "id": "r0326",
+    "statement": "거미는곤충(insect)에 속하는 동물이다.",
+    "answer": false,
+    "correctRate": 0.56,
+    "explanation": "거미는 곤충이 아니라 거미강(Arachnida)에 속하는 절지동물이에요. 곤충은 다리가 6개지만 거미는 다리가 8개랍니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0327",
+    "statement": "한국의 전통 명절 '정월대보름'에는 오곡밥과 묵은 나물을 먹는 풍습이 있다.",
+    "answer": true,
+    "correctRate": 0.61,
+    "explanation": "정월대보름(음력 1월 15일)에는 찹쌀·수수·팥·조·콩으로 지은 오곡밥과 지난해 말려둔 묵은 나물을 먹으며 한 해의 건강을 기원하는 풍습이 전해져 내려오고 있어요.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0328",
+    "statement": "한국의 전통 건축 자재 '황토'는 항균 효과가 있다고 알려져 있다.",
+    "answer": true,
+    "correctRate": 0.51,
+    "explanation": "황토에는 원적외선 방출과 항균 성질이 있다고 알려져 있어요. 실제로 황토 속 광물 성분이 일부 유해 세균의 번식을 억제하는 효과가 연구를 통해 보고된 바 있답니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0329",
+    "statement": "조선시대 '홍문관'은 왕실 도서관 역할과 함께 왕의 자문 기관 역할도 했다.",
+    "answer": true,
+    "correctRate": 0.34,
+    "explanation": "홍문관은 조선시대에 궁중 서적을 관리하는 도서관 역할뿐만 아니라 경연(왕과 신하가 학문을 논하는 자리)을 주관하고 왕에게 학문적 자문을 제공하는 기관이었어요.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0330",
+    "statement": "빛은 진공에서보다 물속에서 더 빠르게 이동한다.",
+    "answer": false,
+    "correctRate": 0.66,
+    "explanation": "빛의 속도는 진공 상태에서 가장 빠르고, 물이나 유리 같은 매질을 통과할 때는 굴절률만큼 속도가 줄어들어요. 물속에서 빛의 속도는 진공에서의 약 75% 수준이랍니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0331",
+    "statement": "한국의 전통 음식 '비빔밥'의 '비빔'은 원래 '비빔(飛飮)'이라는 한자어에서 유래했다.",
+    "answer": false,
+    "correctRate": 0.26,
+    "explanation": "'비빔밥'의 '비빔'은 한자어가 아니라 '비비다'라는 순우리말 동사에서 온 표현이에요. 재료를 한데 섞어 비빈다는 의미에서 자연스럽게 붙은 이름이랍니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0332",
+    "statement": "사람의 코뼈는 성인 기준 단 하나의 뼈로 이루어져 있다.",
+    "answer": false,
+    "correctRate": 0.67,
+    "explanation": "코는 비골(코뼈) 두 개와 여러 연골로 구성되어 있어요. 코뼈만 해도 2개가 쌍을 이루고 있으며 단일 뼈가 아니랍니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0333",
+    "statement": "한국의 전통 가면극 '봉산탈춤'은 황해도 지역에서 유래한 탈춤이다.",
+    "answer": true,
+    "correctRate": 0.6,
+    "explanation": "봉산탈춤은 황해도 봉산 지역에서 유래한 탈춤으로, 양반과 승려 등 지배층을 풍자하는 내용이 특징이에요. 현재는 중요무형문화재로 지정되어 보존되고 있답니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0334",
+    "statement": "지구의 자전 방향은 서쪽에서 동쪽이다.",
+    "answer": true,
+    "correctRate": 0.47,
+    "explanation": "지구는 북극 위에서 내려다보면 반시계 방향, 즉 서쪽에서 동쪽으로 자전해요. 그래서 태양이 동쪽에서 떠서 서쪽으로 지는 것처럼 보이는 거랍니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0335",
+    "statement": "조선시대에 여성도 제한적으로 재산을 상속받을 수 있었다.",
+    "answer": true,
+    "correctRate": 0.73,
+    "explanation": "조선 전기까지는 딸도 아들과 동등하게 재산을 상속받는 균분상속이 행해졌어요. 조선 후기로 갈수록 유교 이념이 강화되면서 장남 위주의 상속으로 변해갔답니다.",
+    "category": "history",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0336",
+    "statement": "한국 전통 음악에서 '판소리'와 달리 '가야금 병창'은 반주 없이 혼자 노래만 한다.",
+    "answer": false,
+    "correctRate": 0.32,
+    "explanation": "가야금 병창은 연주자가 가야금을 직접 연주하면서 동시에 노래를 부르는 형식이에요. 연주와 노래를 한 사람이 함께 하는 것이 가야금 병창의 특징이랍니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0337",
+    "statement": "한국의 전통 음식 '갈비탕'에 사용하는 '갈비'는 원래 소갈비만을 뜻하는 말이다.",
+    "answer": false,
+    "correctRate": 0.32,
+    "explanation": "'갈비'는 소·돼지·닭 등 다양한 동물의 갈빗대 부위를 통칭하는 말이에요. 다만 '갈비탕'의 경우 일반적으로 소갈비를 사용하는 것이 널리 알려진 조리법이랍니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0338",
+    "statement": "한국프로축구(K리그)는 한국프로야구(KBO)보다 먼저 창설됐다.",
+    "answer": false,
+    "correctRate": 0.64,
+    "explanation": "KBO리그는 1982년에 출범했고 K리그는 1983년에 창설됐어요. 따라서 한국프로야구가 한국프로축구보다 1년 먼저 시작된 거랍니다.",
+    "category": "sports",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0339",
+    "statement": "조선시대 왕의 수라상에는 반드시 12첩 반상을 올렸다.",
+    "answer": true,
+    "correctRate": 0.53,
+    "explanation": "조선 왕실에서는 수라상을 12첩 반상으로 차렸어요. 이는 수라(밥)·탕·찌개 등 기본 구성 외에 12가지 반찬을 올리는 최고 격식의 상차림이랍니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0340",
+    "statement": "인간의 뇌는 사용하는 부분이 전체의 10%에 불과하다.",
+    "answer": false,
+    "correctRate": 0.62,
+    "explanation": "'뇌의 10%만 사용한다'는 말은 과학적으로 근거가 없는 속설이에요. 현대 뇌과학 연구에 따르면 인간은 뇌의 거의 모든 영역을 상황에 따라 활발하게 사용한답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0341",
+    "statement": "한국의 전통 건축물 '첨성대'는 신라시대에 건립된 것으로 알려져 있다.",
+    "answer": true,
+    "correctRate": 0.37,
+    "explanation": "경주 첨성대는 신라 선덕여왕 때(7세기경) 건립된 것으로 알려져 있으며, 현존하는 동아시아 최고(最古)의 천문 관측대로 평가받고 있어요.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0342",
+    "statement": "한국어에서 '시치미를 떼다'의 '시치미'는 매(鷹)의 주인을 표시하는 꼬리표에서 유래한 말이다.",
+    "answer": true,
+    "correctRate": 0.41,
+    "explanation": "옛날 매사냥에서 남의 매를 가로챘을 때 꼬리에 붙은 주인 표시 꼬리표(시치미)를 떼어냈던 데서 '모르는 척한다'는 의미가 생겨났어요. 우리말 어원 중 꽤 의외의 사례랍니다.",
+    "category": "korean",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0343",
+    "statement": "한국의 전통 음식 '두부'는 조선시대 이전부터 한반도에서 만들어 먹었다.",
+    "answer": true,
+    "correctRate": 0.43,
+    "explanation": "두부는 고려시대에 이미 한반도에 전래되어 먹었다는 기록이 남아 있어요. 중국에서 유래한 것으로 알려져 있으며 고려 후기부터 본격적으로 보급됐답니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0344",
+    "statement": "달은 스스로 빛을 내는 천체다.",
+    "answer": false,
+    "correctRate": 0.43,
+    "explanation": "달은 스스로 빛을 내지 못하고 태양 빛을 반사해 빛나는 천체예요. 스스로 빛을 내는 천체는 항성(별)이며, 달은 지구의 위성이랍니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0345",
+    "statement": "고려시대에는 사위도 처가의 재산을 상속받을 수 있었다.",
+    "answer": true,
+    "correctRate": 0.69,
+    "explanation": "고려시대에는 남녀 균등 상속이 관행이었고, 사위도 처가에서 거주하며 재산을 상속받는 것이 일반적이었어요. 이러한 풍습은 조선 후기 유교 강화로 점차 사라졌답니다.",
+    "category": "history",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0346",
+    "statement": "한국의 '한글날'은 10월 9일로 법정 공휴일이다.",
+    "answer": true,
+    "correctRate": 0.64,
+    "explanation": "한글날은 10월 9일로, 훈민정음 반포를 기념하는 날이에요. 2013년부터 다시 법정 공휴일로 지정되어 쉬는 날이 됐답니다.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0347",
+    "statement": "한국의 전통 술 '막걸리'를 거르고 남은 찌꺼기를 '술지게미'라고 부른다.",
+    "answer": true,
+    "correctRate": 0.63,
+    "explanation": "막걸리를 거른 뒤 남는 고형 찌꺼기를 '술지게미(주박)'라고 해요. 예로부터 이 술지게미는 가축 사료나 장아찌 담그는 데도 활용됐답니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0348",
+    "statement": "2002년 한일 월드컵에서 한국은 4강에 진출했다.",
+    "answer": true,
+    "correctRate": 0.73,
+    "explanation": "2002년 한일 월드컵에서 한국 대표팀은 폴란드·포르투갈·스페인·독일을 차례로 꺾거나 승리하며 아시아 최초로 4강에 진출하는 역사적 성과를 이뤘어요.",
+    "category": "sports",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0349",
+    "statement": "바닷물이 짠 이유는 주로 강물이 암석의 염분을 녹여 바다로 운반했기 때문이다.",
+    "answer": true,
+    "correctRate": 0.51,
+    "explanation": "강물이 육지 암석의 광물을 녹여 바다로 운반하고, 물은 증발해 순환하지만 염분은 남아 수억 년간 축적된 결과 바닷물이 짜게 됐어요. 해저 화산 활동도 일부 기여한답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0350",
+    "statement": "한국의 전통 놀이 '제기차기'에서 사용하는 제기는 원래 엽전을 천으로 감싸 만들었다.",
+    "answer": true,
+    "correctRate": 0.37,
+    "explanation": "전통 제기는 구멍 뚫린 엽전(동전)을 한지나 천으로 감싸 만든 것이에요. 현대에는 플라스틱 제기가 많이 쓰이지만, 전통 방식은 엽전을 활용한 것이랍니다.",
+    "category": "culture",
+    "difficulty": "normal"
   }
 ]
