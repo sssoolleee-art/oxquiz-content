@@ -3148,5 +3148,230 @@
     "explanation": "전통 제기는 구멍 뚫린 엽전(동전)을 한지나 천으로 감싸 만든 것이에요. 현대에는 플라스틱 제기가 많이 쓰이지만, 전통 방식은 엽전을 활용한 것이랍니다.",
     "category": "culture",
     "difficulty": "normal"
+  },
+  {
+    "id": "r0351",
+    "statement": "한국의 전통 음식 '냉면'의 주산지인 평양과 함흥의 냉면은 면 재료가 서로 같다.",
+    "answer": false,
+    "correctRate": 0.44,
+    "explanation": "평양냉면은 주로 메밀가루로 면을 만들고, 함흥냉면은 감자 전분이나 고구마 전분으로 만들어요. 재료 자체가 달라서 식감도 크게 차이 난답니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0352",
+    "statement": "한국의 독도는 행정구역상 경상북도 울릉군에 속한다.",
+    "answer": true,
+    "correctRate": 0.4,
+    "explanation": "독도는 경상북도 울릉군 울릉읍 독도리로 공식 행정구역이 지정되어 있어요. 울릉도에서 동쪽으로 약 87.4km 떨어진 곳에 위치해 있답니다.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0353",
+    "statement": "사람의 재채기를 할 때 눈을 뜨고 하는 것은 불가능하다.",
+    "answer": false,
+    "correctRate": 0.71,
+    "explanation": "재채기할 때 눈이 자동으로 감기는 반사 반응이 일어나는 것은 사실이지만, 의식적으로 노력하면 눈을 뜬 채 재채기하는 것이 가능해요. 반드시 불가능한 것은 아니랍니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0354",
+    "statement": "조선시대 화폐 '상평통보'는 숙종 때부터 전국적으로 유통되기 시작했다.",
+    "answer": true,
+    "correctRate": 0.34,
+    "explanation": "상평통보는 인조 때 처음 만들어졌으나 제대로 유통되지 않았고, 숙종 4년(1678년)부터 본격적으로 전국에 유통되기 시작했어요. 이후 조선 후기 상업 발달에 크게 기여했답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0355",
+    "statement": "한국의 전통 건축에서 '온돌'은 삼국시대 이전부터 사용된 난방 방식이다.",
+    "answer": true,
+    "correctRate": 0.73,
+    "explanation": "온돌의 기원은 기원전 수천 년 전 신석기·청동기 시대 주거지에서도 그 흔적이 발견되며, 삼국시대 이전부터 활용된 것으로 학계에서 보고 있어요.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0356",
+    "statement": "사람의 혈액에서 가장 많은 비율을 차지하는 세포는 백혈구다.",
+    "answer": false,
+    "correctRate": 0.64,
+    "explanation": "혈액 세포 중 가장 많은 것은 적혈구예요. 혈액 1μL에 약 450~500만 개가 들어 있어, 백혈구(약 4,000~1만 개)보다 훨씬 많답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0357",
+    "statement": "한국의 전통 가옥 한옥에서 대청마루는 원래 여름철 더위를 피하기 위한 공간으로 설계됐다.",
+    "answer": true,
+    "correctRate": 0.66,
+    "explanation": "대청마루는 마루 아래로 바람이 통하고, 개방된 구조 덕분에 여름 열기를 효과적으로 식힐 수 있도록 설계된 공간이에요. 한옥의 여름 대비 지혜가 담겨 있답니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0358",
+    "statement": "고구려·백제·신라 삼국 중 불교를 가장 먼저 국가적으로 수용한 나라는 신라다.",
+    "answer": false,
+    "correctRate": 0.62,
+    "explanation": "불교를 가장 먼저 수용한 나라는 고구려(372년)예요. 이어 백제(384년), 신라(527년 공인)순으로 받아들였답니다. 신라는 오히려 가장 늦게 불교를 공인했어요.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0359",
+    "statement": "한국의 전통 음식 '된장찌개'에 넣는 두부는 원래 조선 초기에는 귀한 식재료로 여겨졌다.",
+    "answer": true,
+    "correctRate": 0.38,
+    "explanation": "두부는 고려 말·조선 초에는 사찰 음식을 중심으로 퍼져 있었고, 초기에는 흔하지 않은 귀한 식재료로 여겨졌어요. 이후 제조 기술이 보급되면서 서민 음식으로 자리 잡았답니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0360",
+    "statement": "오징어와 문어는 같은 목(目)에 속하는 생물이다.",
+    "answer": false,
+    "correctRate": 0.51,
+    "explanation": "오징어는 십완목(十腕目), 문어는 팔완목(八腕目)으로 서로 다른 목에 속해요. 둘 다 두족강(頭足綱) 연체동물이지만 분류 단계에서 목이 다르답니다.",
+    "category": "science",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0361",
+    "statement": "한국의 '한산 모시'는 유네스코 인류무형문화유산에 등재되어 있다.",
+    "answer": true,
+    "correctRate": 0.3,
+    "explanation": "충청남도 서천의 한산 모시짜기는 2011년 유네스코 인류무형문화유산에 등재됐어요. 가늘고 섬세한 모시 직조 기술이 세계적으로 그 가치를 인정받은 것이랍니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0362",
+    "statement": "북극곰의 털은 흰색이 아니라 실제로는 투명(무색)하다.",
+    "answer": true,
+    "correctRate": 0.45,
+    "explanation": "북극곰의 털은 색소가 없는 투명한 속 빈 관 형태예요. 빛이 산란되어 희게 보일 뿐, 털 자체는 무색 투명하답니다. 피부도 실제로는 검은색이에요.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0363",
+    "statement": "조선시대 '동의보감'은 광해군의 명으로 허준이 완성한 의학서다.",
+    "answer": true,
+    "correctRate": 0.5,
+    "explanation": "동의보감은 선조의 명으로 집필이 시작됐지만, 임진왜란 등으로 중단됐다가 광해군 2년(1610년)에 허준이 최종 완성했어요. 2009년 유네스코 세계기록유산에 등재됐답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0364",
+    "statement": "사람은 평생 동안 꿈을 꾼 내용의 대부분을 깨어난 직후 5분 이내에 잊어버린다.",
+    "answer": true,
+    "correctRate": 0.39,
+    "explanation": "수면 연구에 따르면 꿈은 깨어난 직후 빠르게 망각되며, 5분이 지나면 꿈 내용의 절반 이상을, 10분이 지나면 90% 가까이 기억하지 못한다고 알려져 있어요.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0365",
+    "statement": "한국의 프로농구(KBL)는 1997년에 출범했다.",
+    "answer": true,
+    "correctRate": 0.63,
+    "explanation": "한국 프로농구 KBL은 1997년 2월에 공식 출범해 첫 시즌을 시작했어요. 당시 8개 구단으로 시작해 현재까지 이어지고 있답니다.",
+    "category": "sports",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0366",
+    "statement": "한국의 전통 놀이 '쌍륙'은 조선시대에 도박으로 금지된 적이 있다.",
+    "answer": true,
+    "correctRate": 0.33,
+    "explanation": "쌍륙은 주사위를 이용한 전통 놀이로, 조선시대에 도박성이 강하다는 이유로 여러 차례 금지령이 내려진 바 있어요. 그럼에도 불구하고 민간에서 즐겨 행해졌답니다.",
+    "category": "culture",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0367",
+    "statement": "지구의 대륙 중 남극 대륙은 사막으로 분류된다.",
+    "answer": true,
+    "correctRate": 0.61,
+    "explanation": "사막은 단순히 모래가 많은 곳이 아니라 연간 강수량이 250mm 이하인 지역을 말해요. 남극 대륙은 연간 강수량이 매우 적어 세계 최대 규모의 극지 사막으로 분류된답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0368",
+    "statement": "한국의 전통 음식 '보쌈'과 '수육'은 완전히 동일한 음식이다.",
+    "answer": false,
+    "correctRate": 0.33,
+    "explanation": "보쌈은 삶은 돼지고기를 배추 등에 싸서 먹는 음식이고, 수육은 삶은 고기 자체를 가리키는 말이에요. 조리 방식은 비슷하지만 먹는 방식과 개념이 다르답니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0369",
+    "statement": "조선시대 성리학에서 '예학(禮學)'을 집대성한 학자로 꼽히는 인물은 이황이다.",
+    "answer": false,
+    "correctRate": 0.33,
+    "explanation": "조선 예학을 집대성한 대표 학자는 김장생이에요. 이황은 성리학의 '이기론'으로 유명한 학자이고, 예학의 집대성은 김장생과 그 제자 김집이 이룬 업적으로 평가받는답니다.",
+    "category": "history",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0370",
+    "statement": "개미는 자기 몸무게의 수십 배에 달하는 물건을 들 수 있다.",
+    "answer": true,
+    "correctRate": 0.26,
+    "explanation": "개미는 종류에 따라 자기 몸무게의 10~50배에 달하는 물건을 들어 올릴 수 있어요. 이는 몸집이 작을수록 근육 단면적 대비 힘의 효율이 높아지는 원리 때문이랍니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0371",
+    "statement": "한국의 전통 떡 '인절미'의 '인절미'라는 이름은 인조 때 유래했다는 설이 있다.",
+    "answer": true,
+    "correctRate": 0.27,
+    "explanation": "인절미의 어원에 대해 인조가 이괄의 난을 피해 공주로 피란했을 때 임씨 성을 가진 사람이 올린 떡이라 '임절미'라 불리다 '인절미'가 됐다는 설이 전해지고 있어요.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0372",
+    "statement": "한국의 전통 악기 '편경(編磬)'은 돌로 만든 타악기다.",
+    "answer": true,
+    "correctRate": 0.71,
+    "explanation": "편경은 경석(磬石·특수한 돌)을 ㄱ자 모양으로 깎아 만든 타악기예요. 16개의 돌판을 두 단으로 걸어 놓고 뿔로 만든 채로 쳐서 소리를 내는 궁중 아악기랍니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0373",
+    "statement": "사람은 음식을 먹지 않더라도 물만 마시면 한 달 이상 생존할 수 있다.",
+    "answer": true,
+    "correctRate": 0.68,
+    "explanation": "의학적으로 건강한 성인이 물만 섭취할 경우 체내 지방을 에너지원으로 사용하면서 30~70일가량 생존할 수 있는 것으로 알려져 있어요. 반면 물 없이는 3~7일이 한계랍니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0374",
+    "statement": "조선시대 '규장각'은 정조가 설치한 왕실 도서관 겸 학술 연구 기관이다.",
+    "answer": true,
+    "correctRate": 0.4,
+    "explanation": "규장각은 정조 즉위 직후인 1776년에 설치됐어요. 왕실 문서와 도서를 보관하는 한편, 정조가 능력 있는 신하를 직접 키우기 위한 학술·개혁 기관으로도 활용됐답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0375",
+    "statement": "한국의 전통 민속에서 '삼신할머니'는 죽음을 관장하는 신이다.",
+    "answer": false,
+    "correctRate": 0.54,
+    "explanation": "삼신할머니는 출산과 아이의 성장을 돌봐 주는 신이에요. 죽음을 관장하는 신은 따로 저승사자나 염라대왕으로 구분되며, 삼신할머니는 생명의 탄생과 관련된 신이랍니다.",
+    "category": "culture",
+    "difficulty": "normal"
   }
 ]
