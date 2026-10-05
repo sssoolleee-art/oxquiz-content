@@ -3373,5 +3373,230 @@
     "explanation": "삼신할머니는 출산과 아이의 성장을 돌봐 주는 신이에요. 죽음을 관장하는 신은 따로 저승사자나 염라대왕으로 구분되며, 삼신할머니는 생명의 탄생과 관련된 신이랍니다.",
     "category": "culture",
     "difficulty": "normal"
+  },
+  {
+    "id": "r0376",
+    "statement": "한국의 전통 악기 '해금'은 활로 줄을 문질러 소리를 내는 찰현악기다.",
+    "answer": true,
+    "correctRate": 0.34,
+    "explanation": "해금은 두 줄 사이에 말총 활을 끼워 문질러 소리를 내는 찰현악기예요. '깡깡이'라는 별명으로도 불리는 한국 전통 현악기랍니다.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0377",
+    "statement": "조선시대 '의금부'는 일반 백성의 민사 소송을 담당하던 기관이다.",
+    "answer": false,
+    "correctRate": 0.39,
+    "explanation": "의금부는 왕명에 의해 중죄인과 양반 관료의 형사 사건을 다루던 특별 사법기관이에요. 일반 백성의 민사 소송은 한성부나 형조에서 담당했답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0378",
+    "statement": "문어는 심장이 세 개다.",
+    "answer": true,
+    "correctRate": 0.32,
+    "explanation": "문어는 심장이 총 세 개예요. 전신에 혈액을 보내는 체심장 1개와 아가미에 혈액을 공급하는 아가미심장 2개로 이루어져 있답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0379",
+    "statement": "조선시대 과거 시험은 3년마다 정기적으로 치르는 식년시가 유일한 시험이었다.",
+    "answer": false,
+    "correctRate": 0.3,
+    "explanation": "조선시대 과거에는 3년마다 열리는 식년시 외에도 증광시, 별시, 알성시 등 다양한 비정기 시험이 있었어요. 국가 경사나 특별한 사유가 생기면 수시로 시험을 열었답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0380",
+    "statement": "한국의 전통 발효 식품 '간장'은 숙성 기간이 길수록 색이 진하고 짠맛이 강해진다.",
+    "answer": true,
+    "correctRate": 0.26,
+    "explanation": "간장은 숙성 기간이 길어질수록 아미노산과 당분이 반응하는 마이야르 반응으로 색이 짙어지고 풍미가 깊어져요. 오래 숙성한 진간장이 국간장보다 색이 훨씬 진하답니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0381",
+    "statement": "지구에서 가장 가까운 별(태양 제외)은 알파 센타우리로, 빛의 속도로 약 4.2년 거리에 있다.",
+    "answer": true,
+    "correctRate": 0.38,
+    "explanation": "태양계에서 가장 가까운 항성계는 약 4.24광년 떨어진 프록시마 센타우리(알파 센타우리 계)예요. 빛의 속도로도 4년 이상 걸리는 엄청난 거리랍니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0382",
+    "statement": "조선시대 '한성부'는 현재의 서울시청과 비슷한 역할을 했다.",
+    "answer": true,
+    "correctRate": 0.72,
+    "explanation": "한성부는 조선시대 수도 한양의 행정·사법·치안을 담당하던 기관이에요. 오늘날 서울특별시청에 해당하는 역할을 수행했답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0383",
+    "statement": "사람의 손가락 뼈(손가락마디뼈)는 엄지손가락도 3개로 이루어져 있다.",
+    "answer": false,
+    "correctRate": 0.58,
+    "explanation": "엄지손가락은 다른 손가락과 달리 마디뼈가 2개뿐이에요. 나머지 네 손가락은 각각 3개의 마디뼈로 이루어져 있답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0384",
+    "statement": "한국의 전통 명절 '한식(寒食)'은 동지로부터 105일째 되는 날이다.",
+    "answer": true,
+    "correctRate": 0.43,
+    "explanation": "한식은 동지로부터 105일째 되는 날로, 보통 양력 4월 5일 전후예요. 조상 묘를 돌보고 성묘하는 풍습이 있는 전통 명절이랍니다.",
+    "category": "korean",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0385",
+    "statement": "고려시대 수도 개경에는 우리나라 최초의 국립대학 격인 '국자감'이 설치되어 있었다.",
+    "answer": true,
+    "correctRate": 0.59,
+    "explanation": "고려 성종 때 설치된 국자감은 최고 국립 교육기관이었어요. 이후 충렬왕 때 국학, 공민왕 때 성균관으로 명칭이 바뀌며 조선으로 이어졌답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0386",
+    "statement": "김치는 처음 만들어질 때부터 고추가 주재료로 사용됐다.",
+    "answer": false,
+    "correctRate": 0.32,
+    "explanation": "고추가 한반도에 전래된 것은 16세기 임진왜란 이후로 알려져 있어요. 그 이전 김치는 소금·장·마늘 등을 사용한 담백한 형태였답니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0387",
+    "statement": "태권도는 1988년 서울 올림픽에서 정식 종목으로 채택됐다.",
+    "answer": false,
+    "correctRate": 0.72,
+    "explanation": "태권도는 1988년 서울 올림픽에서는 시범 종목이었어요. 정식 올림픽 종목으로 채택된 것은 2000년 시드니 올림픽부터랍니다.",
+    "category": "sports",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0388",
+    "statement": "한국의 전통 놀이 '널뛰기'는 주로 설날과 단오에 여성들이 즐기던 놀이였다.",
+    "answer": true,
+    "correctRate": 0.34,
+    "explanation": "널뛰기는 주로 설날과 단오에 여성들이 즐겨 하던 전통 민속놀이예요. 높이 뛰어올라 담 너머 바깥세상을 구경하기 위해 시작됐다는 이야기도 전해진답니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0389",
+    "statement": "인간의 맹장(충수)은 면역 기능과 전혀 관련이 없는 흔적 기관이다.",
+    "answer": false,
+    "correctRate": 0.69,
+    "explanation": "맹장의 끝에 달린 충수는 과거 흔적 기관으로 여겨졌지만, 최근 연구에서 장내 유익균을 보존하는 면역 관련 기능이 있을 수 있다는 주장이 제기됐어요.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0390",
+    "statement": "조선시대 '포도청'은 오늘날 경찰서와 비슷한 역할을 한 치안 기관이었다.",
+    "answer": true,
+    "correctRate": 0.41,
+    "explanation": "포도청은 조선 중기에 설치되어 도둑 체포, 치안 유지 등을 담당한 기관이에요. 좌포도청과 우포도청으로 나뉘어 한양의 치안을 담당했답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0391",
+    "statement": "한국의 전통 공예 '나전칠기'는 자개(조개껍데기)를 이용해 문양을 만드는 기법이다.",
+    "answer": true,
+    "correctRate": 0.5,
+    "explanation": "나전칠기는 얇게 갈아낸 자개(전복·조개 껍데기)로 문양을 만들어 옻칠한 공예품이에요. 고려시대부터 발전해 한국을 대표하는 전통 공예 기술로 인정받고 있답니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0392",
+    "statement": "물은 얼면 부피가 줄어든다.",
+    "answer": false,
+    "correctRate": 0.58,
+    "explanation": "물은 얼면 오히려 부피가 약 9% 증가해요. 물 분자가 결정 구조를 이루면서 분자 간 간격이 오히려 넓어지기 때문이랍니다. 그래서 얼음이 물 위에 뜨는 거예요.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0393",
+    "statement": "한국의 '판소리' 다섯 마당 중 '춘향가'와 '심청가'는 모두 현재까지 전승되고 있다.",
+    "answer": true,
+    "correctRate": 0.53,
+    "explanation": "현재까지 전승되는 판소리 다섯 마당은 춘향가·심청가·흥보가·수궁가·적벽가예요. 나머지 일곱 마당은 전승이 끊겨 '실전 판소리'로 분류된답니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0394",
+    "statement": "한국 프로야구(KBO) 원년 구단은 총 8개였다.",
+    "answer": false,
+    "correctRate": 0.34,
+    "explanation": "1982년 KBO 출범 당시 원년 구단은 6개(MBC 청룡·삼성 라이온즈·OB 베어스·롯데 자이언츠·해태 타이거즈·삼미 슈퍼스타즈)였어요. 8개 구단이 된 것은 이후 팀이 추가되면서랍니다.",
+    "category": "sports",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0395",
+    "statement": "조선시대 '경국대전'은 성종 때 완성되어 반포된 법전이다.",
+    "answer": true,
+    "correctRate": 0.27,
+    "explanation": "경국대전은 세조 때부터 편찬이 시작되어 성종 7년(1485년)에 최종 완성·반포된 조선의 기본 법전이에요. 이·호·예·병·형·공의 6전 체계로 구성됐답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0396",
+    "statement": "상어는 뼈가 없고 연골로만 이루어진 물고기다.",
+    "answer": true,
+    "correctRate": 0.54,
+    "explanation": "상어는 경골어류와 달리 뼈 대신 연골로 이루어진 연골어류예요. 가오리, 홍어 등도 같은 연골어류에 속한답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0397",
+    "statement": "한국의 전통 색동저고리에서 색동의 색 배열은 오방색을 기준으로 엄격하게 정해져 있었다.",
+    "answer": false,
+    "correctRate": 0.52,
+    "explanation": "색동의 색 배열은 엄격하게 정해진 규칙이 없었어요. 오방색에서 영향을 받았지만 지역과 장인에 따라 다양하게 배열해 아이의 건강과 복을 기원하는 의미로 사용했답니다.",
+    "category": "culture",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0398",
+    "statement": "한국의 전통 음식 '수정과'는 생강과 계피를 주재료로 만든 음청류다.",
+    "answer": true,
+    "correctRate": 0.26,
+    "explanation": "수정과는 생강과 계피를 달인 물에 설탕을 넣고, 곶감과 잣을 띄워 마시는 전통 음청류(飮淸類)예요. 겨울철 즐겨 마시던 후식 음료랍니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0399",
+    "statement": "조선시대 사대부가의 여성도 자신의 이름이 담긴 족보에 정식으로 기재됐다.",
+    "answer": false,
+    "correctRate": 0.45,
+    "explanation": "조선시대 족보에는 여성의 이름이 거의 기재되지 않았어요. 딸의 경우 이름 대신 '여(女)'로 표기하거나 혼인한 남편의 이름을 통해 간접적으로 기재하는 경우가 많았답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0400",
+    "statement": "한국에서 가장 넓은 섬은 제주도다.",
+    "answer": true,
+    "correctRate": 0.56,
+    "explanation": "제주도는 면적 약 1,849㎢로 한국에서 가장 넓은 섬이에요. 2위는 거제도(약 379㎢)로 제주도와 면적 차이가 상당히 크답니다.",
+    "category": "common",
+    "difficulty": "normal"
   }
 ]
