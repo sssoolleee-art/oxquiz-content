@@ -3598,5 +3598,230 @@
     "explanation": "제주도는 면적 약 1,849㎢로 한국에서 가장 넓은 섬이에요. 2위는 거제도(약 379㎢)로 제주도와 면적 차이가 상당히 크답니다.",
     "category": "common",
     "difficulty": "normal"
+  },
+  {
+    "id": "r0401",
+    "statement": "한반도에서 쌀농사는 청동기 시대 이전부터 시작됐다.",
+    "answer": true,
+    "correctRate": 0.52,
+    "explanation": "고고학적 발굴 결과 한반도의 쌀농사는 신석기 시대 말기(기원전 2000년경)부터 시작된 것으로 확인돼요. 청동기 시대(기원전 1000년경)보다 앞서 재배 흔적이 발견됐답니다.",
+    "category": "history",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0402",
+    "statement": "한국의 전통 음식 '삼계탕'에 들어가는 인삼은 원래 조선시대에도 삼계탕 재료로 사용됐다.",
+    "answer": false,
+    "correctRate": 0.34,
+    "explanation": "삼계탕은 20세기 이후에 정착된 음식으로, 조선시대에는 닭과 인삼을 함께 끓이는 현재의 삼계탕 형태가 기록에 거의 나타나지 않아요. 삼계탕이라는 명칭 자체도 근현대에 생겨난 것이랍니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0403",
+    "statement": "한국의 국보 1호는 숭례문(남대문)이다.",
+    "answer": true,
+    "correctRate": 0.28,
+    "explanation": "숭례문은 대한민국 국보 제1호로 지정돼 있어요. 2008년 화재로 소실됐다가 2013년 복원됐으며, 조선시대 한양 도성의 정남쪽 대문이랍니다.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0404",
+    "statement": "조선시대 '홍길동전'을 쓴 허균은 서자 출신이었다.",
+    "answer": false,
+    "correctRate": 0.33,
+    "explanation": "허균은 양반 집안의 적자(嫡子) 출신이에요. 그가 쓴 '홍길동전'의 주인공 홍길동이 서자(庶子) 차별에 저항하는 내용이라 혼동하기 쉽지만, 허균 본인은 적자 출신 명문가 자제였답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0405",
+    "statement": "금성(비너스)은 태양계 행성 중 표면 온도가 가장 높다.",
+    "answer": true,
+    "correctRate": 0.39,
+    "explanation": "금성의 평균 표면 온도는 약 465℃로 태양과 가장 가까운 수성(최고 약 430℃)보다도 높아요. 이산화탄소로 이루어진 두꺼운 대기가 강력한 온실 효과를 일으키기 때문이랍니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0406",
+    "statement": "한국의 전통 악기 '장구'는 양쪽 면의 재질이 서로 다르다.",
+    "answer": true,
+    "correctRate": 0.62,
+    "explanation": "장구는 오른쪽 면(채편)에 말가죽이나 개가죽처럼 얇고 단단한 가죽을, 왼쪽 면(북편)에 소가죽처럼 두껍고 부드러운 가죽을 사용해 서로 다른 음색을 내도록 만들어졌어요.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0407",
+    "statement": "조선시대 '사간원'은 왕의 잘못된 명령을 거부하고 간언하는 역할을 맡은 기관이었다.",
+    "answer": true,
+    "correctRate": 0.55,
+    "explanation": "사간원은 왕에게 직언과 간쟁(諫諍)을 담당하던 언론 삼사(사간원·사헌부·홍문관) 중 하나예요. 왕의 명령이 부당하다고 판단되면 서명·날인을 거부하는 서경(署經) 권한도 있었답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0408",
+    "statement": "사람의 폐는 좌우 크기가 동일하다.",
+    "answer": false,
+    "correctRate": 0.46,
+    "explanation": "사람의 왼쪽 폐는 심장이 자리한 공간을 확보하기 위해 오른쪽 폐보다 작아요. 오른쪽 폐는 3개의 엽(葉)으로, 왼쪽 폐는 2개의 엽으로 이루어져 있답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0409",
+    "statement": "한국의 전통 놀이 '고누'는 바둑판과 유사한 판에서 즐기는 전략 게임이다.",
+    "answer": true,
+    "correctRate": 0.29,
+    "explanation": "고누는 땅이나 종이에 선과 점을 그려 상대방의 말을 잡거나 가두는 전통 전략 놀이예요. 삼국시대 유물에서도 고누판 흔적이 발견될 만큼 오랜 역사를 지닌 놀이랍니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0410",
+    "statement": "한국의 전통 음식 '떡볶이'는 원래 고추장이 아닌 간장 양념으로 만들었다.",
+    "answer": true,
+    "correctRate": 0.5,
+    "explanation": "원래 떡볶이는 궁중 요리에서 유래한 간장 양념 음식이었어요. 고추장 떡볶이는 1950년대 이후에 대중화된 것으로, 현재 우리가 즐기는 빨간 떡볶이는 비교적 최근에 정착된 형태랍니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0411",
+    "statement": "남극과 북극 중 평균 기온이 더 낮은 곳은 북극이다.",
+    "answer": false,
+    "correctRate": 0.69,
+    "explanation": "남극의 평균 기온이 북극보다 훨씬 낮아요. 남극은 거대한 대륙 위에 두꺼운 빙하가 쌓인 반면, 북극은 바다 위의 얼음이라 해양의 열 영향을 받기 때문이랍니다. 역대 최저 기온 기록(-89.2℃)도 남극에서 나왔어요.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0412",
+    "statement": "한국의 행정구역 중 특별시는 서울 단 하나뿐이다.",
+    "answer": true,
+    "correctRate": 0.3,
+    "explanation": "대한민국에서 '특별시'로 지정된 곳은 서울특별시 하나뿐이에요. 부산·대구·인천·광주·대전·울산은 광역시, 세종은 특별자치시로 구분된답니다.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0413",
+    "statement": "조선시대 '당파' 중 동인과 서인의 분열은 이조전랑 직책 임명 문제가 발단이었다.",
+    "answer": true,
+    "correctRate": 0.71,
+    "explanation": "1575년(선조 8년) 이조전랑 자리를 둘러싼 심의겸과 김효원 간의 갈등이 동인·서인 분열의 직접적 계기가 됐어요. 이후 조선 후기 당쟁의 씨앗이 된 역사적 사건이랍니다.",
+    "category": "history",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0414",
+    "statement": "한국의 전통 음식 '순두부찌개'의 '순두부'는 응고제를 넣지 않아 굳히지 않은 두부다.",
+    "answer": true,
+    "correctRate": 0.27,
+    "explanation": "순두부는 콩물(두유)에 간수 등 응고제를 넣되 틀에 압착해 굳히는 과정을 거치지 않아 부드럽고 연한 상태예요. 일반 두부보다 수분 함량이 높고 식감이 훨씬 부드럽답니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0415",
+    "statement": "세계에서 가장 큰 민주주의 국가(유권자 수 기준)는 인도다.",
+    "answer": true,
+    "correctRate": 0.54,
+    "explanation": "인도는 유권자 수가 9억 명을 훌쩍 넘어 세계 최대의 민주주의 국가로 불려요. 2024년 인도 총선에서는 약 9억 7천만 명의 유권자가 선거에 참여할 자격을 가졌답니다.",
+    "category": "common",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0416",
+    "statement": "한국의 전통 세시 풍속에서 '복날'은 음력 기준으로 정해진다.",
+    "answer": false,
+    "correctRate": 0.39,
+    "explanation": "복날(초복·중복·말복)은 음력이 아닌 양력을 기준으로 한 24절기의 하나인 하지(夏至) 이후 경일(庚日)을 기준으로 정해져요. 즉 태양력·간지(干支) 체계를 혼합해 산출하는 날이랍니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0417",
+    "statement": "사람의 치아 중 사랑니는 반드시 4개가 모두 나는 것이 아니다.",
+    "answer": true,
+    "correctRate": 0.56,
+    "explanation": "사랑니(제3대구치)는 사람마다 개수가 달라서 0~4개까지 다양하게 나타나요. 아예 사랑니가 없는 사람도 있고, 잇몸 속에서 나오지 않고 매복된 채로 있는 경우도 흔하답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0418",
+    "statement": "조선시대 '훈민정음'은 창제 당시 28개의 기본 글자로 이루어져 있었다.",
+    "answer": true,
+    "correctRate": 0.72,
+    "explanation": "세종대왕이 1443년 창제한 훈민정음은 자음 17자, 모음 11자 총 28자로 구성돼 있었어요. 현재 한글은 자음 14자, 모음 10자 총 24자를 사용하며 일부 글자는 현대에 쓰이지 않게 됐답니다.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0419",
+    "statement": "펭귄은 남극에만 서식하며 북극에는 살지 않는다.",
+    "answer": true,
+    "correctRate": 0.64,
+    "explanation": "펭귄은 남반구에만 자연 서식하며 북극에는 살지 않아요. 북극에 사는 대표 조류는 바다오리류(퍼핀 등)예요. 펭귄의 서식지는 남극 외에도 남아프리카·갈라파고스·뉴질랜드 등 남반구 지역에 분포한답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0420",
+    "statement": "한국의 전통 음식 '식혜'는 엿기름(맥아)을 이용해 밥의 전분을 당화시켜 만든다.",
+    "answer": true,
+    "correctRate": 0.42,
+    "explanation": "식혜는 엿기름의 아밀라아제(효소)가 밥의 전분을 포도당과 맥아당으로 분해하는 당화 과정을 통해 만들어져요. 이 효소 작용이 식혜 특유의 단맛을 내는 핵심 원리랍니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0421",
+    "statement": "한국의 독립운동가 안중근은 이토 히로부미 저격 후 현장에서 바로 체포됐다.",
+    "answer": true,
+    "correctRate": 0.75,
+    "explanation": "안중근 의사는 1909년 10월 26일 하얼빈 역에서 이토 히로부미를 저격한 뒤 도주하지 않고 '코레아 우라(대한 만세)'를 외치다 그 자리에서 러시아 헌병에게 체포됐어요.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0422",
+    "statement": "한국의 전통 도자기 '분청사기'는 고려청자와 조선백자 사이 시기에 주로 만들어진 도자기다.",
+    "answer": true,
+    "correctRate": 0.44,
+    "explanation": "분청사기는 고려 말에서 조선 초(14~16세기)에 주로 제작됐어요. 청자의 기법을 계승하면서도 자유롭고 소박한 무늬가 특징이며, 조선 중기 이후 백자가 보편화되면서 점차 사라졌답니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0423",
+    "statement": "한국의 전통 탈춤 '하회별신굿탈놀이'의 탈은 나무로 만들어졌다.",
+    "answer": true,
+    "correctRate": 0.43,
+    "explanation": "안동 하회마을의 하회별신굿탈놀이에 사용되는 하회탈은 오리나무로 만들어진 국보예요. 현존하는 한국의 탈 중 가장 오래된 것으로, 고려시대에 제작된 것으로 알려져 있답니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0424",
+    "statement": "한국의 전통 주거 문화에서 사랑채는 주로 여성들의 생활 공간으로 사용됐다.",
+    "answer": false,
+    "correctRate": 0.31,
+    "explanation": "사랑채는 남성(가장·사대부)의 공간으로, 손님을 맞이하거나 학문을 닦는 곳으로 사용됐어요. 여성들의 주요 생활 공간은 안채였답니다. 안채와 사랑채를 구분하는 내외법(內外法)이 조선시대에 엄격히 지켜졌어요.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0425",
+    "statement": "조선시대 '균역법'은 영조 때 시행된 조세 제도 개혁이다.",
+    "answer": true,
+    "correctRate": 0.61,
+    "explanation": "균역법은 1750년(영조 26년)에 시행됐어요. 농민의 군포 부담을 1년에 2필에서 1필로 줄이고, 줄어든 세수는 선무군관포·어염세·결작 등으로 보충하도록 한 제도랍니다.",
+    "category": "history",
+    "difficulty": "hard"
   }
 ]
