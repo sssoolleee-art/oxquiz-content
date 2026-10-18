@@ -3823,5 +3823,230 @@
     "explanation": "균역법은 1750년(영조 26년)에 시행됐어요. 농민의 군포 부담을 1년에 2필에서 1필로 줄이고, 줄어든 세수는 선무군관포·어염세·결작 등으로 보충하도록 한 제도랍니다.",
     "category": "history",
     "difficulty": "hard"
+  },
+  {
+    "id": "r0426",
+    "statement": "고려시대에는 불교가 국교였으며, 승려도 과거시험에 응시할 수 있었다.",
+    "answer": true,
+    "correctRate": 0.26,
+    "explanation": "고려는 불교를 국가 이념으로 삼았고, 승과(僧科)라는 별도의 과거시험을 통해 승려의 자격과 등급을 국가가 관리했어요. 승과 합격자는 왕사·국사 같은 높은 지위에 오를 수도 있었답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0427",
+    "statement": "한국의 전통음식 '삼겹살'은 조선시대 문헌에 이미 등장하는 오래된 음식이다.",
+    "answer": false,
+    "correctRate": 0.34,
+    "explanation": "삼겹살을 구워 먹는 문화는 근현대에 들어 대중화된 것으로, 조선시대 문헌에는 삼겹살을 구워 먹었다는 기록이 확인되지 않아요. 돼지고기 조리법 자체는 오래됐지만 오늘날 방식의 삼겹살 구이는 비교적 최근 식문화랍니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0428",
+    "statement": "한국어 '아수라장'의 '아수라'는 불교에서 싸움을 일삼는 신을 가리키는 말에서 유래했다.",
+    "answer": true,
+    "correctRate": 0.69,
+    "explanation": "아수라(阿修羅)는 불교에서 끊임없이 전쟁을 벌이는 신적 존재로, 아수라들이 싸우는 혼란스러운 장소를 '아수라장'이라 부른 데서 유래했어요. 불교 문화가 한국어 어휘에 깊이 스며든 대표적인 사례랍니다.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0429",
+    "statement": "지구상에서 번개는 매초 전 세계적으로 평균 약 100번 발생한다.",
+    "answer": true,
+    "correctRate": 0.41,
+    "explanation": "기상학 연구에 따르면 지구 전체에서 매초 평균 약 100번의 번개가 치는 것으로 추정돼요. 하루로 환산하면 약 860만 번에 달하는 엄청난 양이랍니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0430",
+    "statement": "조선시대 왕의 어진(御眞, 초상화)은 왕이 승하한 후에만 제작할 수 있었다.",
+    "answer": false,
+    "correctRate": 0.71,
+    "explanation": "조선시대에는 왕이 살아있을 때 어진을 제작하는 것이 일반적이었어요. 태조·영조·정조 등 여러 왕의 어진이 생전에 그려졌으며, 이를 도화서 화원들이 담당했답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0431",
+    "statement": "한국의 전통음식 '곰탕'과 '설렁탕'은 뼈를 우려내는 방식과 재료에서 차이가 있다.",
+    "answer": true,
+    "correctRate": 0.61,
+    "explanation": "곰탕은 주로 고기와 내장을 고아 만들어 국물이 맑은 편이고, 설렁탕은 뼈와 사골을 오래 끓여 국물이 하얗게 우러나요. 재료 구성과 조리 방식에서 엄연한 차이가 있는 별개의 음식이랍니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0432",
+    "statement": "한국의 전통 절기 '동지(冬至)'는 1년 중 낮이 가장 짧은 날이다.",
+    "answer": true,
+    "correctRate": 0.45,
+    "explanation": "동지는 태양이 가장 남쪽에 위치해 북반구에서 낮의 길이가 1년 중 가장 짧은 날이에요. 예로부터 이날 팥죽을 먹으며 액운을 쫓는 풍습이 전해 내려오고 있답니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0433",
+    "statement": "인간의 DNA 중 실제로 단백질을 만드는 데 사용되는 부분은 전체의 절반 이상이다.",
+    "answer": false,
+    "correctRate": 0.25,
+    "explanation": "인간 유전체 연구에 따르면 단백질 코딩에 직접 사용되는 DNA는 전체의 약 1.5~2% 수준에 불과해요. 나머지 부분은 조절 기능을 하거나 기능이 아직 밝혀지지 않은 영역으로 알려져 있답니다.",
+    "category": "science",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0434",
+    "statement": "조선시대 '이조(吏曹)'는 문관의 인사를 담당하는 기관이었다.",
+    "answer": true,
+    "correctRate": 0.29,
+    "explanation": "이조는 조선 육조(六曹) 중 하나로, 문관의 인사·임명·고과 등을 담당했어요. 이 때문에 이조전랑 자리를 두고 동인과 서인이 격하게 대립하는 붕당 정치의 불씨가 되기도 했답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0435",
+    "statement": "한국에서 최초로 노벨상을 받은 인물은 과학 분야 수상자다.",
+    "answer": false,
+    "correctRate": 0.74,
+    "explanation": "한국인 최초의 노벨상 수상자는 2000년 노벨 평화상을 받은 김대중 전 대통령이에요. 아직까지 한국인 과학 분야 노벨상 수상자는 배출되지 않았답니다.",
+    "category": "common",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0436",
+    "statement": "한국의 전통 악기 '가야금'은 신라의 악사 우륵이 만든 것으로 전해진다.",
+    "answer": false,
+    "correctRate": 0.7,
+    "explanation": "가야금은 가야국의 가실왕이 만들었다고 전해지며, 우륵은 가야금을 연주하던 악사예요. 가야가 멸망하자 우륵이 신라로 넘어가 가야금을 전수했다는 기록이 『삼국사기』에 남아 있답니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0437",
+    "statement": "바나나는 식물학적으로 열매(과일)가 아니라 베리(berry)로 분류된다.",
+    "answer": true,
+    "correctRate": 0.47,
+    "explanation": "식물학에서 베리는 꽃의 씨방이 발달해 만들어진 과육이 많은 열매를 뜻하는데, 바나나가 여기에 해당해요. 반면 우리가 흔히 딸기라고 부르는 것은 식물학적으로 베리가 아니랍니다.",
+    "category": "science",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0438",
+    "statement": "한국 전통의례에서 '고수레'는 음식을 먹기 전 귀신이나 자연에 먼저 나눠주는 풍습이다.",
+    "answer": true,
+    "correctRate": 0.72,
+    "explanation": "'고수레'는 음식을 먹거나 야외에서 식사할 때 음식 일부를 조금 떼어 던지며 귀신이나 자연신에게 먼저 베푸는 우리 고유의 민속 풍습이에요. 지금도 등산이나 나들이 중 어르신들이 이 풍습을 행하는 모습을 볼 수 있답니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0439",
+    "statement": "한국의 전통 음식 '잡채'는 원래 당면 없이 만들었던 음식이다.",
+    "answer": true,
+    "correctRate": 0.45,
+    "explanation": "잡채는 광해군 시절 이충이 진상한 음식에서 유래한 것으로, 당시에는 다양한 채소를 볶아 만든 음식이었어요. 당면이 잡채에 들어가기 시작한 것은 1900년대 이후 당면이 보급되면서부터랍니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0440",
+    "statement": "조선시대 '성균관' 유생들은 국가 정책에 반대하는 뜻으로 집단 수업 거부(공관)를 할 수 있었다.",
+    "answer": true,
+    "correctRate": 0.37,
+    "explanation": "성균관 유생들은 왕의 잘못된 정책이나 조치에 반발할 때 집단으로 식당과 강당을 비우는 '공관(空館)' 혹은 '권당(捲堂)'이라는 집단행동을 실제로 행했어요. 이는 당시 공인된 의사 표현 방식 중 하나였답니다.",
+    "category": "history",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0441",
+    "statement": "한국의 전통 놀이 '강강술래'는 임진왜란 때 적을 교란하기 위해 시작됐다는 설이 있다.",
+    "answer": true,
+    "correctRate": 0.26,
+    "explanation": "강강술래의 기원에 대해 이순신 장군이 왜적에게 아군의 수를 많아 보이게 하려고 여성들을 둥글게 모아 돌게 했다는 설이 전해져요. 학술적으로 확정된 기원은 아니지만 대표적인 유래담으로 널리 알려져 있답니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0442",
+    "statement": "한국 최초의 철도는 서울과 인천을 잇는 경인선이다.",
+    "answer": true,
+    "correctRate": 0.72,
+    "explanation": "경인선은 1899년 개통된 한국 최초의 철도로, 노량진과 제물포(인천) 구간을 먼저 연결했어요. 이후 서울(서대문)까지 전 구간이 완성되면서 본격적인 철도 시대가 열렸답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0443",
+    "statement": "지구의 표면 중 바다가 차지하는 비율은 약 50%이다.",
+    "answer": false,
+    "correctRate": 0.45,
+    "explanation": "지구 표면에서 바다가 차지하는 비율은 약 71%로, 육지(약 29%)보다 훨씬 넓어요. 그래서 지구를 '물의 행성'이라고 부르기도 한답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0444",
+    "statement": "한국어에서 '뜨악하다'는 표현은 표준어로 국어사전에 등재되어 있다.",
+    "answer": true,
+    "correctRate": 0.54,
+    "explanation": "'뜨악하다'는 '갑작스럽거나 못마땅한 상황에서 기분이 꺼림칙하고 언짢다'는 뜻의 표준어로 국어사전에 등재되어 있어요. 일상에서 자주 쓰이지만 비표준어로 오해하는 분들이 많답니다.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0445",
+    "statement": "조선시대 양반은 군역(軍役) 의무가 면제되어 있었다.",
+    "answer": true,
+    "correctRate": 0.39,
+    "explanation": "조선시대 양반 계층은 원칙적으로 군역을 지지 않았어요. 군역 부담은 주로 평민(양인) 계층이 졌으며, 이 불평등한 군역 제도는 조선 후기 군정 문란의 주요 원인 중 하나가 됐답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0446",
+    "statement": "철새인 제비는 한국에서 겨울을 나고 봄에 동남아시아로 이동한다.",
+    "answer": false,
+    "correctRate": 0.61,
+    "explanation": "제비는 봄·여름에 한국(북반구)에서 번식하고, 가을이 되면 따뜻한 동남아시아나 아프리카 등지로 날아가 겨울을 나요. 즉 한국은 제비의 여름 번식지이고 겨울 서식지는 남쪽 지방이랍니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0447",
+    "statement": "한국의 전통 혼례에서 '폐백'은 신부가 시댁 어른들께 처음으로 예를 올리는 의식이다.",
+    "answer": true,
+    "correctRate": 0.43,
+    "explanation": "폐백은 혼례 후 신부가 시부모님과 시댁 어른들께 처음으로 큰절을 올리며 정식으로 인사하는 의례예요. 대추와 밤 등을 올리며 자손 번창과 복을 기원하는 의미도 담겨 있답니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0448",
+    "statement": "한국 최초의 여성 의사는 일제강점기에 미국 유학을 통해 의사 면허를 취득했다.",
+    "answer": true,
+    "correctRate": 0.39,
+    "explanation": "한국 최초의 여성 의사로 알려진 박에스더(김점동)는 1900년 미국 볼티모어여자의과대학을 졸업하고 의사 자격을 취득했어요. 귀국 후 여성 환자 진료에 헌신하다 안타깝게 젊은 나이에 세상을 떠났답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0449",
+    "statement": "한국어에서 '어이없다'의 '어이'는 맷돌의 손잡이를 뜻하는 말에서 유래했다.",
+    "answer": true,
+    "correctRate": 0.52,
+    "explanation": "'어이'는 맷돌을 돌릴 때 쓰는 손잡이(어이)를 가리키는 말로, 어이가 없으면 맷돌을 돌릴 수 없다는 데서 '어이없다'라는 표현이 유래했다는 설이 유력해요. 황당하고 기가 막힌 상황을 표현하는 우리말의 유래가 재미있지 않나요?",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0450",
+    "statement": "축구공의 전통적인 흑백 무늬(32면체 패널)는 1970년 멕시코 월드컵을 위해 고안됐다.",
+    "answer": true,
+    "correctRate": 0.3,
+    "explanation": "흑백 오각형·육각형 패널로 이루어진 '텔스타' 디자인의 축구공은 1970년 멕시코 월드컵 공인구로 처음 사용됐어요. 흑백 TV 방송에서 공의 회전을 잘 보이게 하기 위해 이 디자인이 채택됐다고 알려져 있답니다.",
+    "category": "sports",
+    "difficulty": "hard"
   }
 ]
