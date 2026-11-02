@@ -4273,5 +4273,230 @@
     "explanation": "지구의 자기 북극은 지리적 북극(자전축 상의 북극)과 일치하지 않아요. 자기 북극은 지속적으로 이동하며, 현재 지리적 북극에서 수백 킬로미터 떨어진 캐나다 북부 쪽에 위치해 있답니다.",
     "category": "science",
     "difficulty": "normal"
+  },
+  {
+    "id": "r0476",
+    "statement": "한국의 전통 악기 '소금(小琴)'은 대금보다 크기가 작은 가로 부는 관악기다.",
+    "answer": true,
+    "correctRate": 0.6,
+    "explanation": "소금은 대금·중금과 함께 삼죽(三竹)으로 불리는 가로로 부는 관악기로, 셋 중 가장 작아요. 음역은 높고 맑은 편이에요.",
+    "category": "korean",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0477",
+    "statement": "한국의 전통 혼례에서 사용하는 청실홍실은 신랑·신부의 영원한 결합을 상징하며, 청실은 신부, 홍실은 신랑을 뜻한다.",
+    "answer": false,
+    "correctRate": 0.7,
+    "explanation": "전통 혼례에서 청실은 신랑(동·남성), 홍실은 신부(서·여성)를 상징해요. 오방색 기준으로 청색은 양(陽), 홍색은 음(陰)에 대응돼요.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0478",
+    "statement": "사람의 손톱은 발톱보다 약 4배 빠르게 자란다.",
+    "answer": true,
+    "correctRate": 0.28,
+    "explanation": "손톱은 하루 평균 약 0.1mm, 발톱은 약 0.025mm 자라요. 혈액순환이 더 활발한 손가락에서 성장 속도가 빠르기 때문이에요.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0479",
+    "statement": "조선시대 '향약(鄕約)'은 중앙 정부가 지방 통제를 위해 강제로 시행한 법령이다.",
+    "answer": false,
+    "correctRate": 0.71,
+    "explanation": "향약은 지방 사족(士族)들이 자율적으로 만든 향촌 자치 규약이에요. 중종 때 조광조가 전국 보급을 추진했지만 관이 강제한 법령은 아니에요.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0480",
+    "statement": "빛의 삼원색(RGB)을 모두 합치면 흰색이 된다.",
+    "answer": true,
+    "correctRate": 0.57,
+    "explanation": "빛의 삼원색인 빨강(Red)·초록(Green)·파랑(Blue)을 동일한 강도로 합치면 흰색 빛이 돼요. 이를 가산혼합이라고 해요.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0481",
+    "statement": "한국의 전통 음식 '식혜'와 '수정과'는 둘 다 쌀을 주재료로 만드는 음청류다.",
+    "answer": false,
+    "correctRate": 0.62,
+    "explanation": "식혜는 쌀밥을 엿기름으로 당화시켜 만들지만, 수정과는 생강·계피·설탕을 주재료로 쌀이 들어가지 않아요.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0482",
+    "statement": "고려시대 팔만대장경 제작은 몽골의 침입을 부처의 힘으로 물리치기 위한 목적이 있었다.",
+    "answer": true,
+    "correctRate": 0.42,
+    "explanation": "팔만대장경(재조대장경)은 고종 23년(1236년)부터 약 16년에 걸쳐 몽골 침입을 불력으로 극복하려는 발원과 함께 제작됐어요.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0483",
+    "statement": "한국어에서 '낙인(烙印)찍히다'의 '낙인'은 원래 소나 말의 피부에 달군 쇠로 찍는 표식에서 유래한 말이다.",
+    "answer": true,
+    "correctRate": 0.39,
+    "explanation": "낙인(烙印)은 '불에 달굴 낙(烙)'과 '도장 인(印)'으로, 가축 소유자를 표시하기 위해 달군 쇠로 찍던 데서 유래했어요.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0484",
+    "statement": "한국프로야구(KBO) 역사상 한 시즌 최다 승리 투수 기록은 30승 이상이다.",
+    "answer": false,
+    "correctRate": 0.28,
+    "explanation": "KBO 한 시즌 최다승 기록은 1984년 최동원·박철순의 30승으로, 30승은 맞지만 '이상'은 아니에요. 30승이 현재까지 공동 최고 기록이에요.",
+    "category": "sports",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0485",
+    "statement": "조선시대 '서원(書院)'은 원래 중종 때 풍기군수 주세붕이 처음 세웠다.",
+    "answer": true,
+    "correctRate": 0.55,
+    "explanation": "우리나라 최초의 서원은 1543년(중종 38년) 풍기군수 주세붕이 세운 백운동서원이에요. 이후 이황의 건의로 소수서원으로 사액됐어요.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0486",
+    "statement": "한국의 전통 음식 '깍두기'라는 이름은 조선 순조 때 왕실에서 유래했다는 설이 있다.",
+    "answer": true,
+    "correctRate": 0.25,
+    "explanation": "깍두기 이름의 유래로, 순조의 딸 숙선옹주가 무를 깍두기 모양으로 썰어 만들었다는 설이 전해 내려와요.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0487",
+    "statement": "지구에서 가장 깊은 바다인 마리아나 해구의 깊이는 에베레스트 산의 높이보다 깊다.",
+    "answer": true,
+    "correctRate": 0.7,
+    "explanation": "마리아나 해구의 최심부 챌린저 딥은 약 11,000m로, 에베레스트 산 높이(약 8,849m)보다 약 2km 이상 더 깊어요.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0488",
+    "statement": "한국의 전통 절기 '경칩(驚蟄)'은 개구리가 겨울잠에서 깨어난다는 절기로, 봄의 시작을 알리는 입춘 다음에 온다.",
+    "answer": false,
+    "correctRate": 0.59,
+    "explanation": "경칩은 24절기 중 입춘·우수 다음 세 번째 절기예요. 입춘 바로 다음이 아니라 우수 다음에 경칩이 와요.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0489",
+    "statement": "한국의 전통 놀이 '윷놀이'에서 '모'는 윷가락 4개가 모두 엎어진 경우다.",
+    "answer": true,
+    "correctRate": 0.3,
+    "explanation": "윷놀이에서 '도·개·걸·윷·모' 중 '모'는 윷가락 4개가 모두 배가 땅에 닿은(엎어진) 상태예요. 가장 높은 점수로 5칸을 이동해요.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0490",
+    "statement": "물고기인 연어는 자신이 태어난 강으로 돌아와 산란하는 모천회귀 본능이 있다.",
+    "answer": true,
+    "correctRate": 0.52,
+    "explanation": "연어는 수천 km를 이동해 자신이 태어난 강(모천)으로 돌아와 산란해요. 후각을 이용해 고향 강의 냄새를 기억한다고 알려져 있어요.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0491",
+    "statement": "한국의 전통 공연 예술 '판소리'의 반주 악기는 북(장구가 아닌 소리북)이다.",
+    "answer": true,
+    "correctRate": 0.3,
+    "explanation": "판소리에서 고수(鼓手)가 치는 반주 악기는 장구가 아닌 소리북(판소리북)이에요. 장구는 민요나 산조 등 다른 공연에서 주로 쓰여요.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0492",
+    "statement": "조선시대 '암행어사'는 왕이 직접 임명하며, 반드시 당하관(정3품 이하) 문신 중에서 선발됐다.",
+    "answer": true,
+    "correctRate": 0.51,
+    "explanation": "암행어사는 왕이 직접 봉서를 내려 임명했고, 주로 젊은 당하관 문신 중 청렴하고 유능한 인물을 선발했어요.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0493",
+    "statement": "한국의 국기 태극기에서 태극 문양의 파란색 부분은 음(陰), 빨간색 부분은 양(陽)을 상징한다.",
+    "answer": true,
+    "correctRate": 0.53,
+    "explanation": "태극기의 태극 문양에서 빨간색(적)은 양(陽)을, 파란색(청)은 음(陰)을 상징해요. 이는 만물의 음양 조화를 표현한 거예요.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0494",
+    "statement": "한국의 전통 도자기 '청자'는 고려시대에 가장 발전했으며, 고려 청자의 독창적인 비색(翡色)은 중국도 인정했다.",
+    "answer": true,
+    "correctRate": 0.65,
+    "explanation": "고려 청자의 맑고 은은한 비색(취청색)은 중국 송나라 문헌에서도 천하제일로 꼽을 만큼 높이 평가받았어요.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0495",
+    "statement": "사람의 체온은 신체 부위에 관계없이 항상 36.5°C로 동일하게 유지된다.",
+    "answer": false,
+    "correctRate": 0.69,
+    "explanation": "체온은 측정 부위에 따라 다르게 나타나요. 직장(항문) 체온이 가장 높고, 겨드랑이 체온이 가장 낮으며 약 0.5~1°C 차이가 나요.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0496",
+    "statement": "한국의 전통 세시풍속에서 '동짓날 팥죽을 문에 뿌리는 풍습'은 악귀를 쫓기 위한 것이다.",
+    "answer": true,
+    "correctRate": 0.34,
+    "explanation": "동짓날 팥죽을 쑤어 대문이나 벽에 뿌리는 풍습은 붉은 팥의 색이 나쁜 기운(귀신)을 쫓는다는 민간 신앙에서 비롯됐어요.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0497",
+    "statement": "조선시대 '임진왜란' 당시 이순신 장군의 거북선은 전 세계 최초의 철갑선으로 공식 인정받고 있다.",
+    "answer": false,
+    "correctRate": 0.54,
+    "explanation": "거북선이 철갑선인지에 대해서는 학계에서 논란이 있어요. 철판을 덮었다는 기록이 불분명해 '세계 최초 철갑선'으로 공식 인정된 것은 아니에요.",
+    "category": "history",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0498",
+    "statement": "한국 전통 민속에서 '오방신장(五方神將)'은 동·서·남·북·중앙의 다섯 방위를 각각 지키는 신이다.",
+    "answer": true,
+    "correctRate": 0.41,
+    "explanation": "오방신장은 동·서·남·북 사방과 중앙, 총 다섯 방위를 수호하는 신장으로, 무속과 불교 의례에서 모두 등장해요.",
+    "category": "culture",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0499",
+    "statement": "한국의 전통 음식 '막국수'는 원래 메밀로 만든 음식이다.",
+    "answer": true,
+    "correctRate": 0.46,
+    "explanation": "막국수는 메밀가루를 반죽해 국수를 뽑아 만드는 강원도 향토 음식이에요. '막'은 '거칠게 바로 만든'이라는 의미를 담고 있어요.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0500",
+    "statement": "한국 축구 국가대표팀의 공식 별명은 '태극전사'다.",
+    "answer": false,
+    "correctRate": 0.72,
+    "explanation": "한국 축구 국가대표팀의 공식 별명(FIFA 등록명)은 '태극전사'가 아니라 '붉은악마'도 아닌 별도로 없으며, '태극전사'는 언론에서 부르는 별칭이에요. 공식 애칭은 따로 등록돼 있지 않아요.",
+    "category": "sports",
+    "difficulty": "hard"
   }
 ]
