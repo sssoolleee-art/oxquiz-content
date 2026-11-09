@@ -4498,5 +4498,230 @@
     "explanation": "한국 축구 국가대표팀의 공식 별명(FIFA 등록명)은 '태극전사'가 아니라 '붉은악마'도 아닌 별도로 없으며, '태극전사'는 언론에서 부르는 별칭이에요. 공식 애칭은 따로 등록돼 있지 않아요.",
     "category": "sports",
     "difficulty": "hard"
+  },
+  {
+    "id": "r0501",
+    "statement": "한국의 전통 음식 '비빔밥'은 원래 제사 음식에서 유래했다는 설이 있다.",
+    "answer": true,
+    "correctRate": 0.57,
+    "explanation": "비빔밥의 유래 중 하나로, 제사 후 남은 음식을 한데 비벼 먹던 풍습에서 비롯됐다는 설이 유력하게 전해지고 있어요.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0502",
+    "statement": "조선시대 '경복궁'은 태조 이성계가 조선을 건국하자마자 첫 번째로 지은 궁궐이다.",
+    "answer": true,
+    "correctRate": 0.66,
+    "explanation": "경복궁은 1395년 태조 이성계의 명으로 완공된 조선 최초의 정궁(正宮)이에요. '경복(景福)'이라는 이름은 정도전이 지었답니다.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0503",
+    "statement": "한국의 전통 발효식품 '청국장'과 일본의 '낫토'는 같은 균(바실러스 서브틸리스)으로 발효시킨 음식이다.",
+    "answer": true,
+    "correctRate": 0.52,
+    "explanation": "청국장과 낫토 모두 바실러스 서브틸리스(Bacillus subtilis) 계열의 균으로 콩을 발효시킨 음식이에요. 다만 사용하는 균주의 종류와 발효 방식에서 차이가 있답니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0504",
+    "statement": "문어는 뇌가 하나뿐이며, 각 다리에는 별도의 신경계가 없다.",
+    "answer": false,
+    "correctRate": 0.3,
+    "explanation": "문어는 중앙 뇌 외에 8개의 다리 각각에 독립적으로 작동하는 신경절(신경계)이 있어요. 전체 신경세포의 약 3분의 2가 다리에 분포한답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0505",
+    "statement": "한국의 전통 혼례에서 '초례(醮禮)'는 신랑·신부가 처음으로 절을 교환하는 의식이다.",
+    "answer": true,
+    "correctRate": 0.5,
+    "explanation": "초례는 전통 혼례의 핵심 절차로, 신랑과 신부가 맞절을 나누며 부부의 연을 맺는 의식이에요. 오늘날 결혼식의 '맞절'에 해당한답니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0506",
+    "statement": "지구의 4계절이 생기는 주된 이유는 지구가 태양 주위를 타원 궤도로 돌아 태양과의 거리가 달라지기 때문이다.",
+    "answer": false,
+    "correctRate": 0.42,
+    "explanation": "계절이 생기는 주된 이유는 지구 자전축이 약 23.5도 기울어진 채 공전하기 때문이에요. 태양과의 거리 차이는 계절 변화에 거의 영향을 주지 않는답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0507",
+    "statement": "한국 전통 가옥 한옥의 기와는 암키와와 수키와로 구분된다.",
+    "answer": true,
+    "correctRate": 0.52,
+    "explanation": "한옥 기와는 오목하게 생긴 암키와와 볼록하게 생긴 수키와로 구성되어 있어요. 암키와를 먼저 깔고 그 이음새를 수키와로 덮어 빗물이 새지 않도록 한답니다.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0508",
+    "statement": "조선시대 '5군영(五軍營)' 체제는 임진왜란을 계기로 정비된 중앙 군사 조직이다.",
+    "answer": true,
+    "correctRate": 0.4,
+    "explanation": "5군영(훈련도감·어영청·총융청·수어청·금위영)은 임진왜란 이후 기존 군사 체제의 한계를 극복하기 위해 단계적으로 설치·정비된 조선 중앙군이에요.",
+    "category": "history",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0509",
+    "statement": "한국의 전통 음식 '전주비빔밥'에는 반드시 콩나물이 들어가야 한다는 규정이 있다.",
+    "answer": false,
+    "correctRate": 0.53,
+    "explanation": "전주비빔밥의 재료에 대한 법적 규정은 없어요. 콩나물이 대표적인 재료이긴 하지만, '반드시 넣어야 한다'는 공식 규정은 존재하지 않는답니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0510",
+    "statement": "한국 프로 축구 K리그는 1983년에 출범했다.",
+    "answer": true,
+    "correctRate": 0.6,
+    "explanation": "K리그는 1983년 '슈퍼리그'라는 이름으로 출범한 아시아 최초의 프로 축구 리그 중 하나예요. 창설 당시 5개 구단이 참가했답니다.",
+    "category": "sports",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0511",
+    "statement": "사람의 뼈는 태어날 때보다 어른이 되었을 때 더 많다.",
+    "answer": false,
+    "correctRate": 0.65,
+    "explanation": "신생아는 약 300개 이상의 뼈를 가지고 태어나지만, 성장하면서 여러 뼈가 융합되어 성인이 되면 약 206개로 줄어들어요.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0512",
+    "statement": "조선시대 '사육신(死六臣)'은 세조의 왕위 찬탈에 반대해 단종 복위를 도모하다 처형된 여섯 명의 신하다.",
+    "answer": true,
+    "correctRate": 0.26,
+    "explanation": "사육신은 성삼문·박팽년·하위지·이개·유성원·유응부 여섯 명으로, 세조(수양대군)의 왕위 찬탈에 저항해 단종 복위를 꾀하다 1456년 처형됐어요.",
+    "category": "history",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0513",
+    "statement": "빛은 진공 상태에서보다 물속에서 더 빠르게 이동한다.",
+    "answer": false,
+    "correctRate": 0.51,
+    "explanation": "빛의 속도는 진공 상태에서 가장 빠르고(약 30만 km/s), 물이나 유리 같은 매질을 통과할 때는 굴절률만큼 속도가 느려져요.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0514",
+    "statement": "한국의 전통 악기 '대금(大笒)'은 신라 삼국통일 직후에 만들어졌다는 기록이 있다.",
+    "answer": true,
+    "correctRate": 0.27,
+    "explanation": "삼국사기 등의 기록에 따르면 대금은 신라의 삼죽(三竹) 중 하나로, 삼국통일 직후 신라 신문왕 때 만파식적 설화와 함께 등장하는 악기예요.",
+    "category": "korean",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0515",
+    "statement": "한국의 전통 세시 풍속에서 '정월 대보름'에는 부럼을 깨무는 풍습이 있으며, 이는 한 해의 치아 건강을 기원하는 의미다.",
+    "answer": true,
+    "correctRate": 0.45,
+    "explanation": "정월 대보름(음력 1월 15일)에 호두·밤·땅콩 등 딱딱한 견과류를 깨무는 '부럼 깨기'는 1년 동안 부스럼이 나지 않고 치아가 건강하기를 바라는 풍습이에요.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0516",
+    "statement": "한국에서 '된장'을 만들고 남은 액체가 간장이 된다.",
+    "answer": false,
+    "correctRate": 0.74,
+    "explanation": "된장과 간장은 모두 메주를 소금물에 담근 뒤 분리해서 만들어요. 소금물에 우러난 액체가 간장이 되고, 건더기를 발효·숙성시킨 것이 된장이 된답니다. 된장을 만들고 남은 액체가 아니에요.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0517",
+    "statement": "조선시대 '천민' 계층에 속하는 백정은 원래 고려시대에는 일반 농민을 가리키는 말이었다.",
+    "answer": true,
+    "correctRate": 0.5,
+    "explanation": "고려시대 '백정'은 특별한 직역(職役) 없이 농업에 종사하는 평민을 뜻했어요. 조선시대에 들어서면서 도축업 종사자를 가리키는 천민 계층의 호칭으로 의미가 바뀌었답니다.",
+    "category": "history",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0518",
+    "statement": "상온(25°C)에서 꿀은 세균이 번식하지 못해 썩지 않는다.",
+    "answer": true,
+    "correctRate": 0.63,
+    "explanation": "꿀은 수분 함량이 낮고 과산화수소와 항균 성분이 있어 세균이 번식하기 매우 어려운 환경이에요. 이집트 파라오 무덤에서 발굴된 수천 년 된 꿀이 여전히 먹을 수 있는 상태였다는 사례도 있답니다.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0519",
+    "statement": "한국의 전통 탈춤 '봉산탈춤'은 황해도 지방을 대표하는 탈춤이다.",
+    "answer": true,
+    "correctRate": 0.49,
+    "explanation": "봉산탈춤은 황해도 봉산 지방에서 발달한 탈춤으로, 국가무형문화재로 지정되어 있어요. 양반에 대한 풍자와 서민의 애환을 담은 내용이 특징이에요.",
+    "category": "culture",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0520",
+    "statement": "사람의 각막에는 혈관이 없다.",
+    "answer": true,
+    "correctRate": 0.4,
+    "explanation": "각막은 빛의 투과를 위해 혈관이 없는 투명한 조직이에요. 산소와 영양분은 눈물과 방수(眼房水)를 통해 공급받는답니다. 혈관이 생기면 시력 저하의 원인이 될 수 있어요.",
+    "category": "science",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0521",
+    "statement": "조선시대 '단오'는 음력 5월 5일로, 주로 여성들이 그네뛰기를 즐긴 명절이다.",
+    "answer": true,
+    "correctRate": 0.68,
+    "explanation": "단오(음력 5월 5일)는 수릿날이라고도 불리며, 여성은 그네뛰기, 남성은 씨름을 즐긴 대표적인 세시 명절이에요. 창포물에 머리를 감는 풍습도 있었답니다.",
+    "category": "korean",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0522",
+    "statement": "한국의 전통 음식 '도토리묵'의 주성분은 단백질이다.",
+    "answer": false,
+    "correctRate": 0.58,
+    "explanation": "도토리묵의 주성분은 단백질이 아닌 녹말(전분)이에요. 도토리에서 떫은맛을 내는 탄닌 성분을 제거하고 전분을 추출해 굳혀서 만든 음식이랍니다.",
+    "category": "food",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0523",
+    "statement": "한국의 행정 구역 '특별자치시'는 현재 세종시 단 하나뿐이다.",
+    "answer": true,
+    "correctRate": 0.27,
+    "explanation": "세종특별자치시는 2012년 출범한 대한민국 유일의 특별자치시예요. 행정중심복합도시 건설을 위해 충청남도·충청북도 일부를 분리해 신설됐답니다.",
+    "category": "common",
+    "difficulty": "normal"
+  },
+  {
+    "id": "r0524",
+    "statement": "조선시대 과거 시험에서 무과(武科)는 문과(文科)보다 합격자 정원이 훨씬 적었다.",
+    "answer": false,
+    "correctRate": 0.64,
+    "explanation": "조선시대 식년시 기준 문과는 33명, 무과는 28명을 선발했지만, 별시 등 비정기 시험에서 무과는 수백 명씩 대거 선발하는 경우가 많아 총 무과 합격자 수는 문과보다 훨씬 많았어요.",
+    "category": "history",
+    "difficulty": "hard"
+  },
+  {
+    "id": "r0525",
+    "statement": "한국의 전통 명주 '막걸리'는 쌀 외에도 밀로 만들 수 있다.",
+    "answer": true,
+    "correctRate": 0.5,
+    "explanation": "막걸리는 쌀뿐만 아니라 밀, 옥수수 등 다양한 곡물로 만들 수 있어요. 1960~70년대에는 쌀 부족으로 밀막걸리가 대량 생산됐고, 현재도 밀막걸리가 시중에 유통되고 있답니다.",
+    "category": "food",
+    "difficulty": "normal"
   }
 ]
